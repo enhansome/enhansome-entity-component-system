@@ -19,7 +19,7 @@
             "last_commit": "2026-08-09T15:23:08Z",
             "owner": "skypjack",
             "repo": "entt",
-            "stars": 13010
+            "stars": 13013
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T07:25:00Z",
+            "last_commit": "2026-08-14T02:31:51Z",
             "owner": "SanderMertens",
             "repo": "flecs",
             "stars": 8591
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T10:08:13Z",
+            "last_commit": "2026-08-14T06:12:11Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7181
+            "stars": 7182
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-11T18:43:34Z",
             "owner": "empyreanx",
             "repo": "pico_headers",
-            "stars": 553
+            "stars": 554
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2020-08-22T05:48:36Z",
             "owner": "Yelnats321",
             "repo": "EntityPlus",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -156,10 +156,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T08:03:58Z",
+            "last_commit": "2026-08-14T11:52:57Z",
             "owner": "richardbiely",
             "repo": "gaia-ecs",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-06T18:30:40Z",
             "owner": "genaray",
             "repo": "Arch",
-            "stars": 1794
+            "stars": 1796
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-07-03T11:59:59Z",
             "owner": "friflo",
             "repo": "Friflo.Engine.ECS",
-            "stars": 743
+            "stars": 745
           }
         },
         {
@@ -330,10 +330,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-22T13:00:48Z",
+            "last_commit": "2026-08-14T12:33:47Z",
             "owner": "scellecs",
             "repo": "morpeh",
-            "stars": 653
+            "stars": 656
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-06T11:49:36Z",
             "owner": "outfox",
             "repo": "fennecs",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-08-13T12:33:21Z",
             "owner": "DCFApixels",
             "repo": "DragonECS",
-            "stars": 335
+            "stars": 336
           }
         },
         {
@@ -372,7 +372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T12:35:10Z",
+            "last_commit": "2026-08-14T05:16:01Z",
             "owner": "chromealex",
             "repo": "ME.BECS",
             "stars": 255
@@ -403,7 +403,7 @@
             "last_commit": "2026-08-11T11:37:39Z",
             "owner": "Felid-Force-Studios",
             "repo": "StaticEcs",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-08-13T18:23:36Z",
             "owner": "andreakarasho",
             "repo": "TinyEcs",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -496,10 +496,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:18:43Z",
+            "last_commit": "2026-08-14T01:47:47Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47620
+            "stars": 47625
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2026-08-12T07:35:46Z",
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 295
+            "stars": 297
           }
         }
       ],
@@ -609,7 +609,7 @@
             "last_commit": "2023-03-15T01:27:58Z",
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-05-18T18:38:32Z",
             "owner": "prime31",
             "repo": "zig-ecs",
-            "stars": 429
+            "stars": 430
           }
         },
         {
@@ -858,10 +858,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T10:08:13Z",
+            "last_commit": "2026-08-14T06:12:11Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7181
+            "stars": 7182
           }
         },
         {
@@ -875,7 +875,7 @@
             "last_commit": "2026-08-13T15:00:23Z",
             "owner": "amzeratul",
             "repo": "halley",
-            "stars": 3854
+            "stars": 3853
           }
         },
         {
@@ -889,7 +889,7 @@
             "last_commit": "2026-06-23T16:16:51Z",
             "owner": "jmorton06",
             "repo": "Lumos",
-            "stars": 1595
+            "stars": 1596
           }
         },
         {
@@ -928,10 +928,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T15:23:20Z",
+            "last_commit": "2026-08-14T10:20:37Z",
             "owner": "gscept",
             "repo": "nebula",
-            "stars": 1086
+            "stars": 1087
           }
         },
         {
@@ -970,10 +970,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T15:20:28Z",
+            "last_commit": "2026-08-14T17:45:41Z",
             "owner": "doriaxengine",
             "repo": "doriax",
-            "stars": 716
+            "stars": 721
           }
         },
         {
@@ -1074,10 +1074,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:18:43Z",
+            "last_commit": "2026-08-14T01:47:47Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47620
+            "stars": 47625
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "last_commit": "2025-07-03T23:20:30Z",
             "owner": "ConfettiFX",
             "repo": "The-Forge",
-            "stars": 5633
+            "stars": 5635
           }
         },
         {
@@ -1155,7 +1155,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T14:10:17Z",
+            "last_commit": "2026-08-14T13:48:19Z",
             "owner": "GameFoundry",
             "repo": "B3DFramework",
             "stars": 1920
@@ -1188,7 +1188,7 @@
             "last_commit": "2024-08-16T16:42:26Z",
             "owner": "abeimler",
             "repo": "ecs_benchmark",
-            "stars": 303
+            "stars": 304
           }
         },
         {
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:20:28.245Z",
+    "last_updated": "2026-08-14T20:15:03.325Z",
     "original_repository": "jslee02/awesome-entity-component-system",
     "original_repository_sha": "3837816e2b1d96a92da95b50405cd68cf451c6db",
     "enhanced_repository": "enhansome/enhansome-entity-component-system",
