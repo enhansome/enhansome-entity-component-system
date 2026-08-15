@@ -19,7 +19,7 @@
             "last_commit": "2026-08-09T15:23:08Z",
             "owner": "skypjack",
             "repo": "entt",
-            "stars": 13013
+            "stars": 13015
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T02:31:51Z",
+            "last_commit": "2026-08-15T19:12:16Z",
             "owner": "SanderMertens",
             "repo": "flecs",
-            "stars": 8591
+            "stars": 8594
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:12:11Z",
+            "last_commit": "2026-08-15T06:53:52Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7182
+            "stars": 7186
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2023-12-30T16:18:56Z",
             "owner": "sschmid",
             "repo": "Entitas",
-            "stars": 7670
+            "stars": 7669
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-06T18:30:40Z",
             "owner": "genaray",
             "repo": "Arch",
-            "stars": 1796
+            "stars": 1798
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-08-14T01:47:47Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47625
+            "stars": 47642
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-07-28T04:36:27Z",
             "owner": "Ralith",
             "repo": "hecs",
-            "stars": 1353
+            "stars": 1354
           }
         },
         {
@@ -685,7 +685,7 @@
             "last_commit": "2026-04-12T19:46:11Z",
             "owner": "NateTheGreatt",
             "repo": "bitECS",
-            "stars": 1487
+            "stars": 1489
           }
         },
         {
@@ -752,7 +752,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-30T21:21:24Z",
+            "last_commit": "2026-08-15T15:12:19Z",
             "owner": "WillH0lt",
             "repo": "woven-ecs",
             "stars": 10
@@ -775,7 +775,7 @@
             "last_commit": "2026-05-18T18:38:32Z",
             "owner": "prime31",
             "repo": "zig-ecs",
-            "stars": 430
+            "stars": 429
           }
         },
         {
@@ -858,10 +858,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:12:11Z",
+            "last_commit": "2026-08-15T06:53:52Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7182
+            "stars": 7186
           }
         },
         {
@@ -931,7 +931,7 @@
             "last_commit": "2026-08-14T10:20:37Z",
             "owner": "gscept",
             "repo": "nebula",
-            "stars": 1087
+            "stars": 1088
           }
         },
         {
@@ -970,10 +970,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T17:45:41Z",
+            "last_commit": "2026-08-15T17:44:09Z",
             "owner": "doriaxengine",
             "repo": "doriax",
-            "stars": 721
+            "stars": 725
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2018-08-04T10:04:17Z",
             "owner": "Shervanator",
             "repo": "Engine",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -1054,10 +1054,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T11:47:32Z",
+            "last_commit": "2026-08-15T17:31:04Z",
             "owner": "dbartolini",
             "repo": "crown",
-            "stars": 29
+            "stars": 30
           }
         }
       ],
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-08-14T01:47:47Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47625
+            "stars": 47642
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "last_commit": "2025-07-03T23:20:30Z",
             "owner": "ConfettiFX",
             "repo": "The-Forge",
-            "stars": 5635
+            "stars": 5636
           }
         },
         {
@@ -1155,10 +1155,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T13:48:19Z",
+            "last_commit": "2026-08-15T11:50:31Z",
             "owner": "GameFoundry",
             "repo": "B3DFramework",
-            "stars": 1920
+            "stars": 1919
           }
         }
       ],
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:15:03.325Z",
+    "last_updated": "2026-08-15T19:55:32.049Z",
     "original_repository": "jslee02/awesome-entity-component-system",
     "original_repository_sha": "3837816e2b1d96a92da95b50405cd68cf451c6db",
     "enhanced_repository": "enhansome/enhansome-entity-component-system",
