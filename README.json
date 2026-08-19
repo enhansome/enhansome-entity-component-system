@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-09T15:23:08Z",
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13028
+                "stars": 13029
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 37770961,
                 "language": "C++",
-                "last_commit": "2026-08-19T05:03:12Z",
+                "last_commit": "2026-08-19T18:58:04Z",
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
                 "stars": 7190
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-14T12:33:47Z",
                 "owner": "scellecs",
                 "repo": "morpeh",
-                "stars": 661
+                "stars": 662
               }
             },
             {
@@ -381,7 +381,7 @@
                 "archived": false,
                 "id": 596004844,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:13:38Z",
+                "last_commit": "2026-08-19T15:07:24Z",
                 "owner": "DCFApixels",
                 "repo": "DragonECS",
                 "stars": 338
@@ -530,10 +530,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-19T01:41:16Z",
+                "last_commit": "2026-08-19T19:45:07Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47700
+                "stars": 47702
               }
             },
             {
@@ -667,7 +667,7 @@
                 "last_commit": "2026-07-24T20:46:24Z",
                 "owner": "Keyslam-Group",
                 "repo": "Concord",
-                "stars": 322
+                "stars": 323
               }
             },
             {
@@ -918,7 +918,7 @@
                     "archived": false,
                     "id": 37770961,
                     "language": "C++",
-                    "last_commit": "2026-08-19T05:03:12Z",
+                    "last_commit": "2026-08-19T18:58:04Z",
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
                     "stars": 7190
@@ -993,7 +993,7 @@
                     "archived": false,
                     "id": 164856783,
                     "language": "C++",
-                    "last_commit": "2026-08-19T11:41:07Z",
+                    "last_commit": "2026-08-19T19:32:36Z",
                     "owner": "gscept",
                     "repo": "nebula",
                     "stars": 1090
@@ -1038,10 +1038,10 @@
                     "archived": false,
                     "id": 64516740,
                     "language": "C++",
-                    "last_commit": "2026-08-19T02:50:05Z",
+                    "last_commit": "2026-08-19T16:13:12Z",
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 735
+                    "stars": 737
                   }
                 },
                 {
@@ -1150,10 +1150,10 @@
                     "archived": false,
                     "id": 234798675,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T01:41:16Z",
+                    "last_commit": "2026-08-19T19:45:07Z",
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 47700
+                    "stars": 47702
                   }
                 },
                 {
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:15.877Z",
+    "last_updated": "2026-08-19T19:58:54.764Z",
     "original_repository": "jslee02/awesome-entity-component-system",
     "original_repository_id": 159918826,
     "original_repository_sha": "3837816e2b1d96a92da95b50405cd68cf451c6db",
