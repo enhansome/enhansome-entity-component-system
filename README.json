@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-09T15:23:08Z",
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13033
+                "stars": 13041
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T23:03:24Z",
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8613
+                "stars": 8615
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 37770961,
                 "language": "C++",
-                "last_commit": "2026-08-21T17:18:21Z",
+                "last_commit": "2026-08-23T06:10:47Z",
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7193
+                "stars": 7197
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 407324085,
                 "language": "C",
-                "last_commit": "2026-08-11T18:43:34Z",
+                "last_commit": "2026-08-22T20:52:17Z",
                 "owner": "empyreanx",
                 "repo": "pico_headers",
                 "stars": 553
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 359172378,
                 "language": "C++",
-                "last_commit": "2026-08-22T09:22:06Z",
+                "last_commit": "2026-08-23T15:33:27Z",
                 "owner": "richardbiely",
                 "repo": "gaia-ecs",
                 "stars": 133
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-06T18:30:40Z",
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1803
+                "stars": 1804
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-07-03T11:59:59Z",
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 753
+                "stars": 754
               }
             },
             {
@@ -530,10 +530,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-22T19:27:52Z",
+                "last_commit": "2026-08-23T19:02:33Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47786
+                "stars": 47807
               }
             },
             {
@@ -578,7 +578,7 @@
                 "last_commit": "2026-08-20T05:01:49Z",
                 "owner": "Ralith",
                 "repo": "hecs",
-                "stars": 1358
+                "stars": 1359
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-17T09:18:39Z",
                 "owner": "mlange-42",
                 "repo": "ark",
-                "stars": 297
+                "stars": 296
               }
             }
           ],
@@ -652,7 +652,7 @@
                 "last_commit": "2023-03-15T01:27:58Z",
                 "owner": "bakpakin",
                 "repo": "tiny-ecs",
-                "stars": 785
+                "stars": 786
               }
             },
             {
@@ -731,7 +731,7 @@
                 "archived": false,
                 "id": 252572653,
                 "language": "TypeScript",
-                "last_commit": "2026-04-12T19:46:11Z",
+                "last_commit": "2026-08-23T17:44:37Z",
                 "owner": "NateTheGreatt",
                 "repo": "bitECS",
                 "stars": 1491
@@ -831,7 +831,7 @@
                 "last_commit": "2026-05-18T18:38:32Z",
                 "owner": "prime31",
                 "repo": "zig-ecs",
-                "stars": 430
+                "stars": 431
               }
             },
             {
@@ -918,10 +918,10 @@
                     "archived": false,
                     "id": 37770961,
                     "language": "C++",
-                    "last_commit": "2026-08-21T17:18:21Z",
+                    "last_commit": "2026-08-23T06:10:47Z",
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
-                    "stars": 7193
+                    "stars": 7197
                   }
                 },
                 {
@@ -933,7 +933,7 @@
                     "archived": false,
                     "id": 43295328,
                     "language": "C",
-                    "last_commit": "2026-08-22T17:57:55Z",
+                    "last_commit": "2026-08-22T20:26:53Z",
                     "owner": "amzeratul",
                     "repo": "halley",
                     "stars": 3855
@@ -1023,7 +1023,7 @@
                     "archived": false,
                     "id": 4192801,
                     "language": "C++",
-                    "last_commit": "2026-08-08T13:40:06Z",
+                    "last_commit": "2026-08-22T22:39:14Z",
                     "owner": "NazaraEngine",
                     "repo": "NazaraEngine",
                     "stars": 837
@@ -1038,10 +1038,10 @@
                     "archived": false,
                     "id": 64516740,
                     "language": "C++",
-                    "last_commit": "2026-08-22T00:05:23Z",
+                    "last_commit": "2026-08-23T18:22:13Z",
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 745
+                    "stars": 747
                   }
                 },
                 {
@@ -1150,10 +1150,10 @@
                     "archived": false,
                     "id": 234798675,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T19:27:52Z",
+                    "last_commit": "2026-08-23T19:02:33Z",
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 47786
+                    "stars": 47807
                   }
                 },
                 {
@@ -1168,7 +1168,7 @@
                     "last_commit": "2021-12-06T18:23:49Z",
                     "owner": "amethyst",
                     "repo": "amethyst",
-                    "stars": 8025
+                    "stars": 8026
                   }
                 },
                 {
@@ -1183,7 +1183,7 @@
                     "last_commit": "2025-01-07T09:48:53Z",
                     "owner": "AmbientRun",
                     "repo": "Ambient",
-                    "stars": 3907
+                    "stars": 3908
                   }
                 },
                 {
@@ -1227,7 +1227,7 @@
                     "last_commit": "2025-07-03T23:20:30Z",
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5641
+                    "stars": 5642
                   }
                 },
                 {
@@ -1239,7 +1239,7 @@
                     "archived": false,
                     "id": 125349427,
                     "language": "C++",
-                    "last_commit": "2026-08-22T16:12:36Z",
+                    "last_commit": "2026-08-23T12:51:03Z",
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
                     "stars": 1920
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:55:47.932Z",
+    "last_updated": "2026-08-23T19:55:46.605Z",
     "original_repository": "jslee02/awesome-entity-component-system",
     "original_repository_id": 159918826,
     "original_repository_sha": "3837816e2b1d96a92da95b50405cd68cf451c6db",
