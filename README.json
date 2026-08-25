@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 86337343,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:35:36Z",
+                "last_commit": "2026-08-25T16:14:09Z",
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13048
+                "stars": 13050
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T23:03:24Z",
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8618
+                "stars": 8619
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T23:40:55Z",
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7198
+                "stars": 7201
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-22T20:52:17Z",
                 "owner": "empyreanx",
                 "repo": "pico_headers",
-                "stars": 554
+                "stars": 555
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2023-12-30T16:18:56Z",
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7670
+                "stars": 7671
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-07-03T11:59:59Z",
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 758
+                "stars": 757
               }
             },
             {
@@ -396,7 +396,7 @@
                 "archived": false,
                 "id": 638658091,
                 "language": "C#",
-                "last_commit": "2026-08-24T11:22:11Z",
+                "last_commit": "2026-08-25T14:03:19Z",
                 "owner": "chromealex",
                 "repo": "ME.BECS",
                 "stars": 255
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-25T04:17:22Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47831
+                "stars": 47844
               }
             },
             {
@@ -733,7 +733,7 @@
                 "last_commit": "2026-07-24T20:46:24Z",
                 "owner": "Keyslam-Group",
                 "repo": "Concord",
-                "stars": 324
+                "stars": 325
               }
             },
             {
@@ -866,7 +866,7 @@
                 "last_commit": "2026-08-24T15:31:37Z",
                 "owner": "NateTheGreatt",
                 "repo": "bitECS",
-                "stars": 1491
+                "stars": 1492
               }
             },
             {
@@ -941,7 +941,7 @@
                 "last_commit": "2026-08-21T20:40:39Z",
                 "owner": "WillH0lt",
                 "repo": "woven-ecs",
-                "stars": 10
+                "stars": 11
               }
             }
           ],
@@ -1075,7 +1075,7 @@
                     "last_commit": "2026-08-24T23:40:55Z",
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
-                    "stars": 7198
+                    "stars": 7201
                   }
                 },
                 {
@@ -1087,7 +1087,7 @@
                     "archived": false,
                     "id": 43295328,
                     "language": "C",
-                    "last_commit": "2026-08-25T04:18:16Z",
+                    "last_commit": "2026-08-25T17:00:07Z",
                     "owner": "amzeratul",
                     "repo": "halley",
                     "stars": 3855
@@ -1147,7 +1147,7 @@
                     "archived": false,
                     "id": 164856783,
                     "language": "C++",
-                    "last_commit": "2026-08-24T14:28:47Z",
+                    "last_commit": "2026-08-25T10:07:43Z",
                     "owner": "gscept",
                     "repo": "nebula",
                     "stars": 1091
@@ -1195,7 +1195,7 @@
                     "last_commit": "2026-08-24T23:25:54Z",
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 753
+                    "stars": 759
                   }
                 },
                 {
@@ -1282,7 +1282,7 @@
                     "archived": false,
                     "id": 911381276,
                     "language": "C++",
-                    "last_commit": "2026-08-25T00:38:59Z",
+                    "last_commit": "2026-08-25T19:57:50Z",
                     "owner": "dbartolini",
                     "repo": "crown",
                     "stars": 30
@@ -1329,7 +1329,7 @@
                     "last_commit": "2026-08-25T04:17:22Z",
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 47831
+                    "stars": 47844
                   }
                 },
                 {
@@ -1425,7 +1425,7 @@
                     "last_commit": "2025-07-03T23:20:30Z",
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5643
+                    "stars": 5642
                   }
                 },
                 {
@@ -1584,7 +1584,7 @@
                 "last_commit": "2026-07-17T22:44:32Z",
                 "owner": "dbartolini",
                 "repo": "data-oriented-design",
-                "stars": 4462
+                "stars": 4464
               }
             }
           ],
@@ -1606,7 +1606,7 @@
                 "last_commit": "2026-07-01T02:18:04Z",
                 "owner": "SanderMertens",
                 "repo": "ecs-faq",
-                "stars": 2740
+                "stars": 2741
               }
             }
           ],
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:14.383Z",
+    "last_updated": "2026-08-25T20:00:48.756Z",
     "original_repository": "jslee02/awesome-entity-component-system",
     "original_repository_id": 159918826,
     "original_repository_sha": "3837816e2b1d96a92da95b50405cd68cf451c6db",
