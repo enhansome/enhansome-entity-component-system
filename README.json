@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 86337343,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:09:00Z",
+                "last_commit": "2026-08-27T12:53:11Z",
                 "owner": "skypjack",
                 "repo": "entt",
                 "stars": 13051
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-26T00:08:34Z",
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8623
+                "stars": 8624
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2023-12-30T16:18:56Z",
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7671
+                "stars": 7672
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-06T18:30:40Z",
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1808
+                "stars": 1809
               }
             },
             {
@@ -429,7 +429,7 @@
                 "last_commit": "2026-08-11T11:37:39Z",
                 "owner": "Felid-Force-Studios",
                 "repo": "StaticEcs",
-                "stars": 205
+                "stars": 206
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-27T00:36:18Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47898
+                "stars": 47922
               }
             },
             {
@@ -748,7 +748,7 @@
                 "last_commit": "2024-06-24T06:34:40Z",
                 "owner": "nidorx",
                 "repo": "ecs-lua",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -993,7 +993,7 @@
                 "last_commit": "2026-06-26T12:21:58Z",
                 "owner": "Lommix",
                 "repo": "knoedel",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -1087,7 +1087,7 @@
                     "archived": false,
                     "id": 43295328,
                     "language": "C",
-                    "last_commit": "2026-08-27T11:15:10Z",
+                    "last_commit": "2026-08-27T23:15:31Z",
                     "owner": "amzeratul",
                     "repo": "halley",
                     "stars": 3855
@@ -1192,7 +1192,7 @@
                     "archived": false,
                     "id": 64516740,
                     "language": "C++",
-                    "last_commit": "2026-08-26T20:37:58Z",
+                    "last_commit": "2026-08-28T02:23:30Z",
                     "owner": "doriaxengine",
                     "repo": "doriax",
                     "stars": 765
@@ -1282,7 +1282,7 @@
                     "archived": false,
                     "id": 911381276,
                     "language": "C++",
-                    "last_commit": "2026-08-27T10:14:21Z",
+                    "last_commit": "2026-08-27T22:30:26Z",
                     "owner": "dbartolini",
                     "repo": "crown",
                     "stars": 30
@@ -1329,7 +1329,7 @@
                     "last_commit": "2026-08-27T00:36:18Z",
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 47898
+                    "stars": 47922
                   }
                 },
                 {
@@ -1396,7 +1396,7 @@
                     "last_commit": "2026-05-23T01:41:18Z",
                     "owner": "hexops",
                     "repo": "mach",
-                    "stars": 4829
+                    "stars": 4832
                   }
                 }
               ],
@@ -1422,7 +1422,7 @@
                     "archived": false,
                     "id": 105600991,
                     "language": "C++",
-                    "last_commit": "2025-07-03T23:20:30Z",
+                    "last_commit": "2026-08-27T22:50:15Z",
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
                     "stars": 5642
@@ -1437,7 +1437,7 @@
                     "archived": false,
                     "id": 125349427,
                     "language": "C++",
-                    "last_commit": "2026-08-27T09:50:01Z",
+                    "last_commit": "2026-08-27T14:47:49Z",
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
                     "stars": 1922
@@ -1619,7 +1619,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:22.309Z",
+    "last_updated": "2026-08-28T03:51:44.161Z",
     "original_repository_info": {
       "archived": false,
       "id": 159918826,
