@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-02T16:17:46Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13082,
+                "stars": 13084,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -59,11 +59,11 @@
                 "id": 146155284,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T07:16:45Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-06T21:16:52Z",
+                "open_issues": 60,
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8643,
+                "stars": 8646,
                 "topics": [
                   "c99",
                   "cpp11",
@@ -323,7 +323,7 @@
                 "id": 359172378,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:23:44Z",
+                "last_commit": "2026-09-06T03:48:19Z",
                 "open_issues": 5,
                 "owner": "richardbiely",
                 "repo": "gaia-ecs",
@@ -569,7 +569,7 @@
                 "open_issues": 41,
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -641,7 +641,7 @@
                 "open_issues": 40,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 764,
+                "stars": 765,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -711,7 +711,7 @@
                 "open_issues": 9,
                 "owner": "scellecs",
                 "repo": "morpeh",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "csharp",
                   "ecs",
@@ -1131,11 +1131,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T06:06:32Z",
-                "open_issues": 3440,
+                "last_commit": "2026-09-06T08:21:11Z",
+                "open_issues": 3446,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48055,
+                "stars": 48071,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -1296,7 +1296,7 @@
                 "open_issues": 7,
                 "owner": "mlange-42",
                 "repo": "ark",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "agent-based-modeling",
                   "ecs",
@@ -1411,7 +1411,7 @@
                 "open_issues": 1,
                 "owner": "BlackMATov",
                 "repo": "evolved.lua",
-                "stars": 222,
+                "stars": 221,
                 "topics": [
                   "ecs",
                   "entity-component",
@@ -1537,7 +1537,7 @@
                 "open_issues": 0,
                 "owner": "Quillraven",
                 "repo": "Fleks",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "ecs",
                   "entity-component-system",
@@ -1996,7 +1996,7 @@
                     "open_issues": 18,
                     "owner": "asc-community",
                     "repo": "MxEngine",
-                    "stars": 1234,
+                    "stars": 1235,
                     "topics": [
                       "3d-graphics",
                       "cpp",
@@ -2155,11 +2155,11 @@
                     "id": 64516740,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T02:45:36Z",
+                    "last_commit": "2026-09-06T17:07:18Z",
                     "open_issues": 13,
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 783,
+                    "stars": 785,
                     "topics": [
                       "cross-platform",
                       "data-oriented-design",
@@ -2430,11 +2430,11 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-05T06:06:32Z",
-                    "open_issues": 3440,
+                    "last_commit": "2026-09-06T08:21:11Z",
+                    "open_issues": 3446,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 48055,
+                    "stars": 48071,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -2564,7 +2564,7 @@
                     "open_issues": 167,
                     "owner": "hexops",
                     "repo": "mach",
-                    "stars": 4835,
+                    "stars": 4836,
                     "topics": [
                       "composable",
                       "cross-platform",
@@ -2886,7 +2886,7 @@
                 "open_issues": 4,
                 "owner": "dbartolini",
                 "repo": "data-oriented-design",
-                "stars": 4470,
+                "stars": 4471,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:42:29.012Z",
+    "last_updated": "2026-09-06T21:43:20.138Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
