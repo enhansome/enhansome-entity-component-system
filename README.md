@@ -83,7 +83,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### Rust
 
-* 🟢 [bevy\_ecs](https://github.com/bevyengine/bevy/tree/main/crates/bevy_ecs) ⭐ 48,552 | 🐛 3,446 | 🌐 Rust | 📅 2026-10-02 - Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. [⭐ 46.8k](https://github.com/bevyengine/bevy) ⭐ 48,552 | 🐛 3,446 | 🌐 Rust | 📅 2026-10-02
+* 🟢 [bevy\_ecs](https://github.com/bevyengine/bevy/tree/main/crates/bevy_ecs) ⭐ 48,557 | 🐛 3,444 | 🌐 Rust | 📅 2026-10-03 - Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. [⭐ 46.8k](https://github.com/bevyengine/bevy) ⭐ 48,557 | 🐛 3,444 | 🌐 Rust | 📅 2026-10-03
 * 🔴 [specs](https://github.com/amethyst/specs) ⭐ 2,616 | 🐛 48 | 🌐 Rust | 📅 2024-06-07 - Parallel entity component system written in Rust. [⭐ 2.6k](https://github.com/amethyst/specs) ⭐ 2,616 | 🐛 48 | 🌐 Rust | 📅 2024-06-07
 * 🔴 [legion](https://github.com/amethyst/legion) ⭐ 1,722 | 🐛 96 | 🌐 Rust | 📅 2021-12-30 - High performance Rust ECS library. [⭐ 1.7k](https://github.com/amethyst/legion) ⭐ 1,722 | 🐛 96 | 🌐 Rust | 📅 2021-12-30
 * 🟢 [hecs](https://github.com/Ralith/hecs) ⭐ 1,377 | 🐛 36 | 🌐 Rust | 📅 2026-09-29 - High-performance, minimalist entity-component-system. [⭐ 1.3k](https://github.com/Ralith/hecs) ⭐ 1,377 | 🐛 36 | 🌐 Rust | 📅 2026-09-29
@@ -99,7 +99,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 * 🔴 [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - Entity Component System for Lua that's simple, flexible, and useful. [⭐ 783](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15
 * 🟡 [Concord](https://github.com/Keyslam-Group/Concord) ⭐ 327 | 🐛 10 | 🌐 Lua | 📅 2026-09-07 - A feature-complete ECS library. [⭐ 317](https://github.com/Keyslam-Group/Concord) ⭐ 327 | 🐛 10 | 🌐 Lua | 📅 2026-09-07
 * 🔴 [ECS Lua](https://github.com/nidorx/ecs-lua) ⭐ 234 | 🐛 9 | 🌐 Lua | 📅 2024-06-24 - A fast and easy to use ECS engine for game development. [⭐ 231](https://github.com/nidorx/ecs-lua) ⭐ 234 | 🐛 9 | 🌐 Lua | 📅 2024-06-24
-* 🟢 [evolved.lua](https://github.com/BlackMATov/evolved.lua) ⭐ 223 | 🐛 1 | 🌐 Lua | 📅 2026-10-02 - Evolved ECS (Entity-Component-System) for Lua. [⭐ 214](https://github.com/BlackMATov/evolved.lua) ⭐ 223 | 🐛 1 | 🌐 Lua | 📅 2026-10-02
+* 🟢 [evolved.lua](https://github.com/BlackMATov/evolved.lua) ⭐ 223 | 🐛 2 | 🌐 Lua | 📅 2026-10-03 - Evolved ECS (Entity-Component-System) for Lua. [⭐ 214](https://github.com/BlackMATov/evolved.lua) ⭐ 223 | 🐛 2 | 🌐 Lua | 📅 2026-10-03
 * 🔴 [Nata](https://github.com/tesselode/nata) ⭐ 51 | 🐛 1 | 🌐 Lua | 📅 2021-01-20 - Entity management for Lua. [⭐ 51](https://github.com/tesselode/nata) ⭐ 51 | 🐛 1 | 🌐 Lua | 📅 2021-01-20
 
 #### Java
@@ -144,7 +144,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 #### C++
 
 * 🟢 [WickedEngine](https://github.com/turanszkij/WickedEngine) ⭐ 7,261 | 🐛 118 | 🌐 C++ | 📅 2026-10-02 - 3D engine with modern graphics. [⭐ 7.1k](https://github.com/turanszkij/WickedEngine) ⭐ 7,261 | 🐛 118 | 🌐 C++ | 📅 2026-10-02
-* 🟢 [halley](https://github.com/amzeratul/halley) ⭐ 3,862 | 🐛 47 | 🌐 C | 📅 2026-10-02 - A lightweight game engine written in modern C++. [⭐ 3.8k](https://github.com/amzeratul/halley) ⭐ 3,862 | 🐛 47 | 🌐 C | 📅 2026-10-02
+* 🟢 [halley](https://github.com/amzeratul/halley) ⭐ 3,862 | 🐛 47 | 🌐 C | 📅 2026-10-03 - A lightweight game engine written in modern C++. [⭐ 3.8k](https://github.com/amzeratul/halley) ⭐ 3,862 | 🐛 47 | 🌐 C | 📅 2026-10-03
 * 🟢 [Lumos](https://github.com/jmorton06/Lumos) ⭐ 1,598 | 🐛 3 | 🌐 C++ | 📅 2026-08-31 - Cross-Platform C++ 2D/3D game engine. [⭐ 1.6k](https://github.com/jmorton06/Lumos) ⭐ 1,598 | 🐛 3 | 🌐 C++ | 📅 2026-08-31
 * 🔴 [MxEngine](https://github.com/asc-community/MxEngine) ⭐ 1,232 | 🐛 18 | 🌐 C++ | 📅 2024-04-06 - C++ open source 3D game engine. [⭐ 1.2k](https://github.com/asc-community/MxEngine) ⭐ 1,232 | 🐛 18 | 🌐 C++ | 📅 2024-04-06
 * 🔴 [Sparky](https://github.com/TheCherno/Sparky) ⭐ 1,192 | 🐛 50 | 🌐 C++ | 📅 2020-03-21 - Cross-Platform High Performance 2D/3D game engine. [⭐ 1.2k](https://github.com/TheCherno/Sparky) ⭐ 1,192 | 🐛 50 | 🌐 C++ | 📅 2020-03-21
@@ -165,7 +165,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### Rust
 
-* 🟢 [Bevy](https://github.com/bevyengine/bevy) ⭐ 48,552 | 🐛 3,446 | 🌐 Rust | 📅 2026-10-02 - A refreshingly simple data-driven game engine built in Rust. [⭐ 46.8k](https://github.com/bevyengine/bevy) ⭐ 48,552 | 🐛 3,446 | 🌐 Rust | 📅 2026-10-02
+* 🟢 [Bevy](https://github.com/bevyengine/bevy) ⭐ 48,557 | 🐛 3,444 | 🌐 Rust | 📅 2026-10-03 - A refreshingly simple data-driven game engine built in Rust. [⭐ 46.8k](https://github.com/bevyengine/bevy) ⭐ 48,557 | 🐛 3,444 | 🌐 Rust | 📅 2026-10-03
 * 💀 [Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived - Data-oriented and data-driven game engine written in Rust. [⭐ 8.0k](https://github.com/amethyst/amethyst) ⚠️ Archived
 * 🟡 [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,906 | 🐛 281 | 🌐 Rust | 📅 2025-01-07 - The multiplayer game engine. [⭐ 3.9k](https://github.com/AmbientRun/Ambient) ⭐ 3,906 | 🐛 281 | 🌐 Rust | 📅 2025-01-07
 * 🟢 [Bones](https://github.com/fishfolk/bones) ⭐ 313 | 🐛 65 | 🌐 Rust | 📅 2026-04-24 - An easy-to-use game engine for making real games. [⭐ 299](https://github.com/fishfolk/bones) ⭐ 313 | 🐛 65 | 🌐 Rust | 📅 2026-04-24
@@ -273,4 +273,4 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

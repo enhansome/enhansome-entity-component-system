@@ -1131,11 +1131,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:50:10Z",
-                "open_issues": 3446,
+                "last_commit": "2026-10-03T01:34:45Z",
+                "open_issues": 3444,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48552,
+                "stars": 48557,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -1407,8 +1407,8 @@
                 "id": 886198089,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:50:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T01:17:30Z",
+                "open_issues": 2,
                 "owner": "BlackMATov",
                 "repo": "evolved.lua",
                 "stars": 223,
@@ -1939,7 +1939,7 @@
                     "id": 43295328,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T16:59:54Z",
+                    "last_commit": "2026-10-03T01:24:57Z",
                     "open_issues": 47,
                     "owner": "amzeratul",
                     "repo": "halley",
@@ -2430,11 +2430,11 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T22:50:10Z",
-                    "open_issues": 3446,
+                    "last_commit": "2026-10-03T01:34:45Z",
+                    "open_issues": 3444,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 48552,
+                    "stars": 48557,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -2873,7 +2873,7 @@
             {
               "node_type": "item",
               "title": "Entity Component System & Data Oriented Design",
-              "description": null,
+              "description": "dbartolini/data-oriented-design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2901,7 +2901,7 @@
             {
               "node_type": "item",
               "title": "Entity Component Systems FAQ",
-              "description": null,
+              "description": "SanderMertens/ecs-faq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:16:36.876Z",
+    "last_updated": "2026-10-03T04:46:00.908Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
