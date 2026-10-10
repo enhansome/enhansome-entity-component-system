@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "🟢 entt",
-              "description": "Fast and reliable entity-component system. ⭐ 12.8k",
+              "description": "Fast and reliable entity-component system. ⭐ 13.2k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13179,
+                "stars": 13181,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "🟢 Flecs",
-              "description": "A Multithreaded Entity Component System written for C89 & C99. ⭐ 8.4k",
+              "description": "A Multithreaded Entity Component System written for C89 & C99. ⭐ 8.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -63,7 +63,7 @@
                 "open_issues": 62,
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8732,
+                "stars": 8734,
                 "topics": [
                   "c99",
                   "cpp11",
@@ -90,7 +90,7 @@
             {
               "node_type": "item",
               "title": "🟢 WickedEngine's ECS",
-              "description": "WickedEngine's ECS implementation. ⭐ 7.1k",
+              "description": "WickedEngine's ECS implementation. ⭐ 7.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -103,7 +103,7 @@
                 "open_issues": 114,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7278,
+                "stars": 7280,
                 "topics": [
                   "audio",
                   "directx12",
@@ -126,7 +126,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟢 EntityX",
+              "title": "🟡 EntityX",
               "description": "Fast, type-safe C++ entity component system. ⭐ 2.3k",
               "children": [],
               "repo_info": {
@@ -148,7 +148,7 @@
             {
               "node_type": "item",
               "title": "🔴 Kengine",
-              "description": "Game engine with an Entity-Component-System (ECS) architecture. ⭐ 617",
+              "description": "Game engine with an Entity-Component-System (ECS) architecture. ⭐ 618",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "🟢 pico_ecs",
-              "description": "Single-header and cross-platform ECS. ⭐ 547",
+              "description": "Single-header and cross-platform ECS. ⭐ 564",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,7 +202,7 @@
                 "open_issues": 4,
                 "owner": "empyreanx",
                 "repo": "pico_headers",
-                "stars": 565,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -241,7 +241,7 @@
             {
               "node_type": "item",
               "title": "💀 ECS",
-              "description": "C++ single-header entity component system library. ⭐ 483",
+              "description": "C++ single-header entity component system library. ⭐ 481",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -267,7 +267,7 @@
             {
               "node_type": "item",
               "title": "💀 anax",
-              "description": "Open source C++ entity system. ⭐ 463",
+              "description": "Open source C++ entity system. ⭐ 460",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -288,7 +288,7 @@
             {
               "node_type": "item",
               "title": "🔴 EntityPlus",
-              "description": "C++14 entity component system. ⭐ 191",
+              "description": "C++14 entity component system. ⭐ 192",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "🟢 Gaia-ECS",
-              "description": "Fast and type-safe C++17 archetype-based entity component system. ⭐ 129",
+              "description": "Fast and type-safe C++17 archetype-based entity component system. ⭐ 134",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -323,7 +323,7 @@
                 "id": 359172378,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T10:23:58Z",
+                "last_commit": "2026-10-10T13:41:22Z",
                 "open_issues": 6,
                 "owner": "richardbiely",
                 "repo": "gaia-ecs",
@@ -377,7 +377,7 @@
             {
               "node_type": "item",
               "title": "🟢 mustache",
-              "description": "A fast, modern C++ entity component system. ⭐ 72",
+              "description": "A fast, modern C++ entity component system. ⭐ 78",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
                 "open_issues": 97,
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7677,
+                "stars": 7679,
                 "topics": [
                   "c-sharp",
                   "code-generation",
@@ -556,7 +556,7 @@
             {
               "node_type": "item",
               "title": "🟢 Arch",
-              "description": "A high-performance Archetype & Chunks Entity Component System for game development and data-oriented programming. ⭐ 1.7k",
+              "description": "A high-performance Archetype & Chunks Entity Component System for game development and data-oriented programming. ⭐ 1.8k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,10 +566,10 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T10:57:47Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1840,
+                "stars": 1843,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "🟢 Friflo Engine ECS",
-              "description": "ECS for .NET with focus on performance, cache locality and DX. ⭐ 669",
+              "description": "ECS for .NET with focus on performance, cache locality and DX. ⭐ 782",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
                 "open_issues": 41,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "🔴 DefaultEcs",
-              "description": "ECS for syntax and usage simplicity with maximum performance. ⭐ 758",
+              "description": "ECS for syntax and usage simplicity with maximum performance. ⭐ 764",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -681,7 +681,7 @@
                 "open_issues": 20,
                 "owner": "Doraku",
                 "repo": "DefaultEcs",
-                "stars": 764,
+                "stars": 765,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -697,8 +697,8 @@
             },
             {
               "node_type": "item",
-              "title": "🟢 Morpeh",
-              "description": "ECS Framework for Unity Game Engine and .NET Platform. ⭐ 647",
+              "title": "🟡 Morpeh",
+              "description": "ECS Framework for Unity Game Engine and .NET Platform. ⭐ 671",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "🟢 Fennecs",
-              "description": "... the tiny, tiny, high-energy Entity-Component System! ⭐ 441",
+              "description": "... the tiny, tiny, high-energy Entity-Component System! ⭐ 468",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -757,7 +757,7 @@
             {
               "node_type": "item",
               "title": "🟢 DragonECS",
-              "description": "ECS for Unity and .NET. ⭐ 332",
+              "description": "ECS for Unity and .NET. ⭐ 343",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
             {
               "node_type": "item",
               "title": "🟢 ME.BECS",
-              "description": "ECS for Unity with full game state automatic rollbacks. ⭐ 249",
+              "description": "ECS for Unity with full game state automatic rollbacks. ⭐ 257",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "🟢 Massive ECS",
-              "description": "Bitset-based ECS with rollbacks. C# library and Unity package. ⭐ 211",
+              "description": "Bitset-based ECS with rollbacks. C# library and Unity package. ⭐ 224",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -834,7 +834,7 @@
             {
               "node_type": "item",
               "title": "🟢 Static ECS",
-              "description": "C# Hierarchical Inverted Bitmap ECS framework. ⭐ 183",
+              "description": "C# Hierarchical Inverted Bitmap ECS framework. ⭐ 211",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -872,7 +872,7 @@
             {
               "node_type": "item",
               "title": "🟢 Frent",
-              "description": "Data oriented ECF with an ECS api for C#, Godot, and Unity. ⭐ 173",
+              "description": "Data oriented ECF with an ECS api for C#, Godot, and Unity. ⭐ 187",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "🟢 TinyEcs",
-              "description": "A tiny bevy-like archetype-style ECS library for dotnet. ⭐ 148",
+              "description": "A tiny bevy-like archetype-style ECS library for dotnet. ⭐ 153",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,7 +919,7 @@
                 "id": 583583043,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:25:25Z",
+                "last_commit": "2026-10-10T15:59:05Z",
                 "open_issues": 6,
                 "owner": "andreakarasho",
                 "repo": "TinyEcs",
@@ -937,7 +937,7 @@
             {
               "node_type": "item",
               "title": "🔴 LeoEcsLite",
-              "description": "Lightweight C# Entity Component System framework. ⭐ 62",
+              "description": "Lightweight C# Entity Component System framework. ⭐ 63",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +1052,7 @@
             {
               "node_type": "item",
               "title": "🟡 ECSx",
-              "description": "An ECS framework for Elixir. ⭐ 265",
+              "description": "An ECS framework for Elixir. ⭐ 270",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,7 +1088,7 @@
             {
               "node_type": "item",
               "title": "🟢 esper",
-              "description": "A lightweight Entity System for Python. ⭐ 693",
+              "description": "A lightweight Entity System for Python. ⭐ 702",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1122,7 +1122,7 @@
             {
               "node_type": "item",
               "title": "🟢 bevy_ecs",
-              "description": "Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. ⭐ 46.8k",
+              "description": "Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. ⭐ 48.6k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1131,11 +1131,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T07:16:48Z",
-                "open_issues": 3453,
+                "last_commit": "2026-10-10T01:47:16Z",
+                "open_issues": 3466,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48800,
+                "stars": 48848,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -1199,7 +1199,7 @@
             {
               "node_type": "item",
               "title": "🟢 hecs",
-              "description": "High-performance, minimalist entity-component-system. ⭐ 1.3k",
+              "description": "High-performance, minimalist entity-component-system. ⭐ 1.4k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1212,7 +1212,7 @@
                 "open_issues": 34,
                 "owner": "Ralith",
                 "repo": "hecs",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "ecs-paradigm",
                   "hacktoberfest"
@@ -1223,7 +1223,7 @@
             {
               "node_type": "item",
               "title": "🟢 shipyard",
-              "description": "Entity Component System written in Rust. ⭐ 864",
+              "description": "Entity Component System written in Rust. ⭐ 889",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,7 +1262,7 @@
             {
               "node_type": "item",
               "title": "🔴 ecs",
-              "description": "A Go-implementation of the Entity-Component-System paradigm. ⭐ 333",
+              "description": "A Go-implementation of the Entity-Component-System paradigm. ⭐ 338",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,7 +1283,7 @@
             {
               "node_type": "item",
               "title": "🟢 Ark",
-              "description": "An archetype-based Entity Component System for Go. ⭐ 281",
+              "description": "An archetype-based Entity Component System for Go. ⭐ 302",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1320,7 +1320,7 @@
             {
               "node_type": "item",
               "title": "🔴 tiny-ecs",
-              "description": "Entity Component System for Lua that's simple, flexible, and useful. ⭐ 783",
+              "description": "Entity Component System for Lua that's simple, flexible, and useful. ⭐ 789",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1345,8 +1345,8 @@
             },
             {
               "node_type": "item",
-              "title": "🟡 Concord",
-              "description": "A feature-complete ECS library. ⭐ 317",
+              "title": "🟢 Concord",
+              "description": "A feature-complete ECS library. ⭐ 327",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1372,7 +1372,7 @@
             {
               "node_type": "item",
               "title": "🔴 ECS Lua",
-              "description": "A fast and easy to use ECS engine for game development. ⭐ 231",
+              "description": "A fast and easy to use ECS engine for game development. ⭐ 234",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1398,7 +1398,7 @@
             {
               "node_type": "item",
               "title": "🟢 evolved.lua",
-              "description": "Evolved ECS (Entity-Component-System) for Lua. ⭐ 214",
+              "description": "Evolved ECS (Entity-Component-System) for Lua. ⭐ 224",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1488,7 +1488,7 @@
             {
               "node_type": "item",
               "title": "🟢 Ark.jl",
-              "description": "An archetype-based Entity Component System (ECS) for Julia. It is a port of the Go ECS Ark. ⭐ 81",
+              "description": "An archetype-based Entity Component System (ECS) for Julia. It is a port of the Go ECS Ark. ⭐ 84",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1497,7 +1497,7 @@
                 "id": 1078993573,
                 "language": "Julia",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:36:18Z",
+                "last_commit": "2026-10-10T02:23:03Z",
                 "open_issues": 42,
                 "owner": "ark-ecs",
                 "repo": "Ark.jl",
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "🟢 Fleks",
-              "description": "Fast, lightweight, multi-platform entity component system in Kotlin. ⭐ 260",
+              "description": "Fast, lightweight, multi-platform entity component system in Kotlin. ⭐ 269",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1560,7 +1560,7 @@
             {
               "node_type": "item",
               "title": "🟢 bitECS",
-              "description": "Functional, minimal, data-oriented, ultra-high performance ECS library. ⭐ 1.4k",
+              "description": "Functional, minimal, data-oriented, ultra-high performance ECS library. ⭐ 1.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1573,7 +1573,7 @@
                 "open_issues": 21,
                 "owner": "NateTheGreatt",
                 "repo": "bitECS",
-                "stars": 1518,
+                "stars": 1519,
                 "topics": [
                   "ecs",
                   "entitycomponentsystem",
@@ -1612,7 +1612,7 @@
             {
               "node_type": "item",
               "title": "🟢 miniplex",
-              "description": "The gentle game entity manager, focused on ease of use and developer experience. ⭐ 1.0k",
+              "description": "The gentle game entity manager, focused on ease of use and developer experience. ⭐ 1.1k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1639,8 +1639,8 @@
             },
             {
               "node_type": "item",
-              "title": "🟡 becsy",
-              "description": "A multithreaded Entity Component System (ECS) for TypeScript and JavaScript, inspired by ECSY and bitecs. ⭐ 295",
+              "title": "🟢 becsy",
+              "description": "A multithreaded Entity Component System (ECS) for TypeScript and JavaScript, inspired by ECSY and bitecs. ⭐ 298",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1695,7 +1695,7 @@
             {
               "node_type": "item",
               "title": "🟢 Woven-ECS",
-              "description": "A multithreaded ECS framework for TypeScript aimed at collaborative browser applications. ⭐ 9",
+              "description": "A multithreaded ECS framework for TypeScript aimed at collaborative browser applications. ⭐ 12",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1731,7 +1731,7 @@
             {
               "node_type": "item",
               "title": "🟢 Zig ECS",
-              "description": "A Zig port of the fantasic Entt. ⭐ 419",
+              "description": "A Zig port of the fantasic Entt. ⭐ 430",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "🟢 ZCS",
-              "description": "An archetype based entity component system written in Zig. ⭐ 149",
+              "description": "An archetype based entity component system written in Zig. ⭐ 151",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1777,7 +1777,7 @@
             {
               "node_type": "item",
               "title": "🟢 knoedel",
-              "description": "Data oriented application framework written in Zig (ECS). ⭐ 35",
+              "description": "Data oriented application framework written in Zig (ECS). ⭐ 47",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1804,7 +1804,7 @@
             {
               "node_type": "item",
               "title": "🔴 mach-ecs",
-              "description": "Entity Component System from first-principles designed for Zig. ⭐ 35",
+              "description": "Entity Component System from first-principles designed for Zig. ⭐ 34",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1853,7 +1853,7 @@
             {
               "node_type": "item",
               "title": "🟢 apecs",
-              "description": "A fast, extensible, type driven Haskell ECS framework for games. ⭐ 418",
+              "description": "A fast, extensible, type driven Haskell ECS framework for games. ⭐ 425",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1893,7 +1893,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 WickedEngine",
-                  "description": "3D engine with modern graphics. ⭐ 7.1k",
+                  "description": "3D engine with modern graphics. ⭐ 7.3k",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1906,7 +1906,7 @@
                     "open_issues": 114,
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
-                    "stars": 7278,
+                    "stars": 7280,
                     "topics": [
                       "audio",
                       "directx12",
@@ -1930,7 +1930,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 halley",
-                  "description": "A lightweight game engine written in modern C++. ⭐ 3.8k",
+                  "description": "A lightweight game engine written in modern C++. ⭐ 3.9k",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1939,11 +1939,11 @@
                     "id": 43295328,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T21:22:41Z",
+                    "last_commit": "2026-10-10T22:56:03Z",
                     "open_issues": 47,
                     "owner": "amzeratul",
                     "repo": "halley",
-                    "stars": 3861,
+                    "stars": 3863,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1996,7 +1996,7 @@
                     "open_issues": 18,
                     "owner": "ASC-Community",
                     "repo": "MxEngine",
-                    "stars": 1231,
+                    "stars": 1230,
                     "topics": [
                       "3d-graphics",
                       "cpp",
@@ -2052,7 +2052,7 @@
                     "open_issues": 34,
                     "owner": "gscept",
                     "repo": "nebula",
-                    "stars": 1097,
+                    "stars": 1099,
                     "topics": [
                       "classless-api",
                       "data-oriented-architecture",
@@ -2071,7 +2071,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Lina Engine",
-                  "description": "Modular, tiny and fast C++ game engine, aimed to develop 3D desktop games. ⭐ 898",
+                  "description": "Modular, tiny and fast C++ game engine, aimed to develop 3D desktop games. ⭐ 899",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2084,7 +2084,7 @@
                     "open_issues": 2,
                     "owner": "inanevin",
                     "repo": "LinaEngine",
-                    "stars": 898,
+                    "stars": 899,
                     "topics": [
                       "3d-graphics",
                       "3d-graphics-engine",
@@ -2104,7 +2104,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 supernova",
-                  "description": "Game engine for 2D and 3D projects with ECS and data-oriented design. ⭐ 420",
+                  "description": "Game engine for 2D and 3D projects with ECS and data-oriented design. ⭐ 858",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2113,11 +2113,11 @@
                     "id": 64516740,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T21:37:45Z",
+                    "last_commit": "2026-10-10T13:30:50Z",
                     "open_issues": 14,
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 861,
+                    "stars": 862,
                     "topics": [
                       "cross-platform",
                       "data-oriented-design",
@@ -2138,7 +2138,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Nazara Engine",
-                  "description": "Cross-platform framework aimed at real-time applications requiring audio, 2D and 3D real-time rendering, network and more. ⭐ 831",
+                  "description": "Cross-platform framework aimed at real-time applications requiring audio, 2D and 3D real-time rendering, network and more. ⭐ 845",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2151,7 +2151,7 @@
                     "open_issues": 15,
                     "owner": "NazaraEngine",
                     "repo": "NazaraEngine",
-                    "stars": 842,
+                    "stars": 843,
                     "topics": [
                       "3d-engine",
                       "c-plus-plus",
@@ -2180,7 +2180,7 @@
                 {
                   "node_type": "item",
                   "title": "🔴 kengine",
-                  "description": "Game engine focused on ease-of-use, runtime extensibility and compile-time type safety. ⭐ 617",
+                  "description": "Game engine focused on ease-of-use, runtime extensibility and compile-time type safety. ⭐ 618",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2221,7 +2221,7 @@
                 {
                   "node_type": "item",
                   "title": "🔴 Engine",
-                  "description": "Basic cross-platform 3D game engine. ⭐ 299",
+                  "description": "Basic cross-platform 3D game engine. ⭐ 301",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2263,7 +2263,7 @@
                 {
                   "node_type": "item",
                   "title": "💀 shiva",
-                  "description": "Modern Cross-Platform C++ Engine with modularity. ⭐ 158",
+                  "description": "Modern Cross-Platform C++ Engine with modularity. ⭐ 159",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2292,7 +2292,7 @@
                 {
                   "node_type": "item",
                   "title": "🔴 Usagi",
-                  "description": "Hierarchical component entity system based game engine. ⭐ 56",
+                  "description": "Hierarchical component entity system based game engine. ⭐ 57",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2359,7 +2359,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 crown",
-                  "description": "General purpose data-driven game engine. ⭐ 28",
+                  "description": "General purpose data-driven game engine. ⭐ 30",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2368,7 +2368,7 @@
                     "id": 911381276,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T15:34:03Z",
+                    "last_commit": "2026-10-10T22:08:06Z",
                     "open_issues": 0,
                     "owner": "dbartolini",
                     "repo": "crown",
@@ -2386,7 +2386,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "🟡 Engo",
+                  "title": "🔴 Engo",
                   "description": "A cross-platform game engine written in Go following an interpretation of the Entity Component System paradigm. ⭐ 1.8k",
                   "children": [],
                   "repo_info": {
@@ -2421,7 +2421,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Bevy",
-                  "description": "A refreshingly simple data-driven game engine built in Rust. ⭐ 46.8k",
+                  "description": "A refreshingly simple data-driven game engine built in Rust. ⭐ 48.6k",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2430,11 +2430,11 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T07:16:48Z",
-                    "open_issues": 3453,
+                    "last_commit": "2026-10-10T01:47:16Z",
+                    "open_issues": 3466,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 48800,
+                    "stars": 48848,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -2489,7 +2489,7 @@
                     "open_issues": 281,
                     "owner": "AmbientRun",
                     "repo": "Ambient",
-                    "stars": 3906,
+                    "stars": 3907,
                     "topics": [
                       "3d-graphics",
                       "game-development",
@@ -2508,7 +2508,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Bones",
-                  "description": "An easy-to-use game engine for making real games. ⭐ 299",
+                  "description": "An easy-to-use game engine for making real games. ⭐ 313",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2518,7 +2518,7 @@
                     "language": "Rust",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-24T19:23:00Z",
-                    "open_issues": 65,
+                    "open_issues": 66,
                     "owner": "fishfolk",
                     "repo": "bones",
                     "stars": 315,
@@ -2564,7 +2564,7 @@
                     "open_issues": 167,
                     "owner": "hexops",
                     "repo": "mach",
-                    "stars": 4846,
+                    "stars": 4845,
                     "topics": [
                       "composable",
                       "cross-platform",
@@ -2597,7 +2597,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 The Forge",
-                  "description": "Cross-Platform Rendering Framework with support for PC Windows, Linux, Ray Tracing, macOS/iOS, Android, XBOX, PS4, PS5, Switch, Quest 2. ⭐ 5.6k",
+                  "description": "Cross-Platform Rendering Framework with support for PC Windows, Linux, Ray Tracing, macOS/iOS, Android, XBOX, PS4, PS5, Switch, Quest 2. ⭐ 5.7k",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2610,7 +2610,7 @@
                     "open_issues": 15,
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5677,
+                    "stars": 5680,
                     "topics": [
                       "android",
                       "directx",
@@ -2652,7 +2652,7 @@
                     "open_issues": 2,
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
-                    "stars": 1933,
+                    "stars": 1934,
                     "topics": [
                       "c-plus-plus",
                       "ecs",
@@ -2682,7 +2682,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 edyn",
-                  "description": "A real-time physics engine organized as an ECS. ⭐ 779",
+                  "description": "A real-time physics engine organized as an ECS. ⭐ 790",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2695,7 +2695,7 @@
                     "open_issues": 4,
                     "owner": "xissburg",
                     "repo": "edyn",
-                    "stars": 791,
+                    "stars": 793,
                     "topics": [
                       "ecs",
                       "entity-component-system",
@@ -2728,8 +2728,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🟡 ecs_benchmark",
-              "description": "Benchmarks of common ECS (Entity-Component-System)-Frameworks in C/C++. ⭐ 299",
+              "title": "🔴 ecs_benchmark",
+              "description": "Benchmarks of common ECS (Entity-Component-System)-Frameworks in C/C++. ⭐ 308",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2763,7 +2763,7 @@
             {
               "node_type": "item",
               "title": "🟢 ECS C# Benchmark",
-              "description": "Benchmarks of the main ECS Frameworks for: C#. ⭐ 178",
+              "description": "Benchmarks of the main ECS Frameworks for: C#. ⭐ 181",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2886,7 +2886,7 @@
                 "open_issues": 4,
                 "owner": "dbartolini",
                 "repo": "data-oriented-design",
-                "stars": 4489,
+                "stars": 4488,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2914,7 +2914,7 @@
                 "open_issues": 2,
                 "owner": "SanderMertens",
                 "repo": "ecs-faq",
-                "stars": 2763,
+                "stars": 2762,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:29:59.906Z",
+    "last_updated": "2026-10-10T22:56:38.081Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
@@ -2937,8 +2937,8 @@
       "id": 159918826,
       "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-10-05T13:07:10Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-10T21:14:00Z",
+      "open_issues": 2,
       "owner": "jslee02",
       "repo": "awesome-entity-component-system",
       "stars": 702,
@@ -2950,7 +2950,7 @@
         "game-engine"
       ]
     },
-    "original_repository_sha": "3837816e2b1d96a92da95b50405cd68cf451c6db",
+    "original_repository_sha": "0cf92091076f13e935f83158d516798f051d1f59",
     "enhanced_repository": "enhansome/enhansome-entity-component-system",
     "enhanced_repository_description": null,
     "title": "Awesome ECS with stars"
