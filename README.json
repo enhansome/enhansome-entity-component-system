@@ -17,11 +17,11 @@
                 "id": 86337343,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T15:00:04Z",
+                "last_commit": "2026-10-12T16:12:29Z",
                 "open_issues": 14,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13187,
+                "stars": 13188,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -63,7 +63,7 @@
                 "open_issues": 62,
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8736,
+                "stars": 8738,
                 "topics": [
                   "c99",
                   "cpp11",
@@ -99,11 +99,11 @@
                 "id": 37770961,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T06:11:24Z",
+                "last_commit": "2026-10-12T18:02:53Z",
                 "open_issues": 114,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7284,
+                "stars": 7287,
                 "topics": [
                   "audio",
                   "directx12",
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "🔴 ecst",
-              "description": "Experimental C++14 multithreaded compile-time entity-compnent-system library. ⭐ 491",
+              "description": "Experimental C++14 multithreaded compile-time entity-compnent-system library. ⭐ 490",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
                 "open_issues": 97,
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7678,
+                "stars": 7679,
                 "topics": [
                   "c-sharp",
                   "code-generation",
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "🟢 Friflo Engine ECS",
-              "description": "ECS for .NET with focus on performance, cache locality and DX. ⭐ 782",
+              "description": "ECS for .NET with focus on performance, cache locality and DX. ⭐ 785",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "🔴 DefaultEcs",
-              "description": "ECS for syntax and usage simplicity with maximum performance. ⭐ 764",
+              "description": "ECS for syntax and usage simplicity with maximum performance. ⭐ 765",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -698,7 +698,7 @@
             {
               "node_type": "item",
               "title": "🟡 Morpeh",
-              "description": "ECS Framework for Unity Game Engine and .NET Platform. ⭐ 671",
+              "description": "ECS Framework for Unity Game Engine and .NET Platform. ⭐ 672",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "🟢 Fennecs",
-              "description": "... the tiny, tiny, high-energy Entity-Component System! ⭐ 468",
+              "description": "... the tiny, tiny, high-energy Entity-Component System! ⭐ 470",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -798,7 +798,7 @@
                 "id": 638658091,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T14:28:03Z",
+                "last_commit": "2026-10-12T08:48:41Z",
                 "open_issues": 1,
                 "owner": "chromealex",
                 "repo": "ME.BECS",
@@ -937,7 +937,7 @@
             {
               "node_type": "item",
               "title": "🔴 LeoEcsLite",
-              "description": "Lightweight C# Entity Component System framework. ⭐ 63",
+              "description": "Lightweight C# Entity Component System framework. ⭐ 62",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,7 +1088,7 @@
             {
               "node_type": "item",
               "title": "🟢 esper",
-              "description": "A lightweight Entity System for Python. ⭐ 702",
+              "description": "A lightweight Entity System for Python. ⭐ 703",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1098,7 +1098,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-20T07:17:24Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "benmoran56",
                 "repo": "esper",
                 "stars": 703,
@@ -1122,7 +1122,7 @@
             {
               "node_type": "item",
               "title": "🟢 bevy_ecs",
-              "description": "Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. ⭐ 48.6k",
+              "description": "Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. ⭐ 48.9k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1131,11 +1131,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T08:11:24Z",
-                "open_issues": 3476,
+                "last_commit": "2026-10-12T18:20:09Z",
+                "open_issues": 3497,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48904,
+                "stars": 48946,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -1163,7 +1163,7 @@
                 "open_issues": 48,
                 "owner": "amethyst",
                 "repo": "specs",
-                "stars": 2616,
+                "stars": 2615,
                 "topics": [
                   "ecs",
                   "parallel-ecs",
@@ -1188,7 +1188,7 @@
                 "open_issues": 96,
                 "owner": "amethyst",
                 "repo": "legion",
-                "stars": 1722,
+                "stars": 1721,
                 "topics": [
                   "ecs",
                   "rust"
@@ -1212,7 +1212,7 @@
                 "open_issues": 34,
                 "owner": "Ralith",
                 "repo": "hecs",
-                "stars": 1382,
+                "stars": 1381,
                 "topics": [
                   "ecs-paradigm",
                   "hacktoberfest"
@@ -1223,7 +1223,7 @@
             {
               "node_type": "item",
               "title": "🟢 shipyard",
-              "description": "Entity Component System written in Rust. ⭐ 889",
+              "description": "Entity Component System written in Rust. ⭐ 891",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1236,7 +1236,7 @@
                 "open_issues": 8,
                 "owner": "leudz",
                 "repo": "shipyard",
-                "stars": 892,
+                "stars": 891,
                 "topics": [
                   "architectural-patterns",
                   "data-oriented",
@@ -1288,11 +1288,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "Ark -- Archetype-based Entity Component System (ECS) for Go.",
-                "homepage": "https://mlange-42.github.io/ark/",
+                "homepage": "https://ark.mlange.dev",
                 "id": 934973326,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-17T09:18:39Z",
+                "last_commit": "2026-10-12T18:11:56Z",
                 "open_issues": 7,
                 "owner": "mlange-42",
                 "repo": "ark",
@@ -1346,7 +1346,7 @@
             {
               "node_type": "item",
               "title": "🟢 Concord",
-              "description": "A feature-complete ECS library. ⭐ 327",
+              "description": "A feature-complete ECS library. ⭐ 326",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1497,8 +1497,8 @@
                 "id": 1078993573,
                 "language": "Julia",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T01:47:22Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-13T00:48:51Z",
+                "open_issues": 44,
                 "owner": "ark-ecs",
                 "repo": "Ark.jl",
                 "stars": 84,
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "🟢 Fleks",
-              "description": "Fast, lightweight, multi-platform entity component system in Kotlin. ⭐ 269",
+              "description": "Fast, lightweight, multi-platform entity component system in Kotlin. ⭐ 270",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1731,7 +1731,7 @@
             {
               "node_type": "item",
               "title": "🟢 Zig ECS",
-              "description": "A Zig port of the fantasic Entt. ⭐ 430",
+              "description": "A Zig port of the fantasic Entt. ⭐ 431",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1902,11 +1902,11 @@
                     "id": 37770961,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T06:11:24Z",
+                    "last_commit": "2026-10-12T18:02:53Z",
                     "open_issues": 114,
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
-                    "stars": 7284,
+                    "stars": 7287,
                     "topics": [
                       "audio",
                       "directx12",
@@ -1939,11 +1939,11 @@
                     "id": 43295328,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-11T16:25:51Z",
+                    "last_commit": "2026-10-13T00:32:50Z",
                     "open_issues": 47,
                     "owner": "amzeratul",
                     "repo": "halley",
-                    "stars": 3864,
+                    "stars": 3865,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2049,7 +2049,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-11T21:51:08Z",
-                    "open_issues": 34,
+                    "open_issues": 35,
                     "owner": "gscept",
                     "repo": "nebula",
                     "stars": 1100,
@@ -2070,7 +2070,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "🟢 Lina Engine",
+                  "title": "🟡 Lina Engine",
                   "description": "Modular, tiny and fast C++ game engine, aimed to develop 3D desktop games. ⭐ 899",
                   "children": [],
                   "repo_info": {
@@ -2104,7 +2104,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 supernova",
-                  "description": "Game engine for 2D and 3D projects with ECS and data-oriented design. ⭐ 858",
+                  "description": "Game engine for 2D and 3D projects with ECS and data-oriented design. ⭐ 866",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2113,11 +2113,11 @@
                     "id": 64516740,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T22:05:09Z",
+                    "last_commit": "2026-10-12T20:32:33Z",
                     "open_issues": 15,
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 864,
+                    "stars": 869,
                     "topics": [
                       "cross-platform",
                       "data-oriented-design",
@@ -2138,7 +2138,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Nazara Engine",
-                  "description": "Cross-platform framework aimed at real-time applications requiring audio, 2D and 3D real-time rendering, network and more. ⭐ 845",
+                  "description": "Cross-platform framework aimed at real-time applications requiring audio, 2D and 3D real-time rendering, network and more. ⭐ 843",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2263,7 +2263,7 @@
                 {
                   "node_type": "item",
                   "title": "💀 shiva",
-                  "description": "Modern Cross-Platform C++ Engine with modularity. ⭐ 159",
+                  "description": "Modern Cross-Platform C++ Engine with modularity. ⭐ 160",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2368,7 +2368,7 @@
                     "id": 911381276,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-11T22:25:00Z",
+                    "last_commit": "2026-10-12T20:44:36Z",
                     "open_issues": 0,
                     "owner": "dbartolini",
                     "repo": "crown",
@@ -2421,7 +2421,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Bevy",
-                  "description": "A refreshingly simple data-driven game engine built in Rust. ⭐ 48.6k",
+                  "description": "A refreshingly simple data-driven game engine built in Rust. ⭐ 48.9k",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2430,11 +2430,11 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-11T08:11:24Z",
-                    "open_issues": 3476,
+                    "last_commit": "2026-10-12T18:20:09Z",
+                    "open_issues": 3497,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 48904,
+                    "stars": 48946,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -2462,7 +2462,7 @@
                     "open_issues": 0,
                     "owner": "amethyst",
                     "repo": "amethyst",
-                    "stars": 8034,
+                    "stars": 8033,
                     "topics": [
                       "engine",
                       "game-engine",
@@ -2489,7 +2489,7 @@
                     "open_issues": 281,
                     "owner": "AmbientRun",
                     "repo": "Ambient",
-                    "stars": 3907,
+                    "stars": 3906,
                     "topics": [
                       "3d-graphics",
                       "game-development",
@@ -2508,7 +2508,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 Bones",
-                  "description": "An easy-to-use game engine for making real games. ⭐ 313",
+                  "description": "An easy-to-use game engine for making real games. ⭐ 314",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2517,11 +2517,11 @@
                     "id": 581287098,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-04-24T19:23:00Z",
-                    "open_issues": 66,
+                    "last_commit": "2026-10-12T16:04:05Z",
+                    "open_issues": 69,
                     "owner": "fishfolk",
                     "repo": "bones",
-                    "stars": 315,
+                    "stars": 314,
                     "topics": [
                       "bevy",
                       "bones",
@@ -2564,7 +2564,7 @@
                     "open_issues": 167,
                     "owner": "hexops",
                     "repo": "mach",
-                    "stars": 4846,
+                    "stars": 4848,
                     "topics": [
                       "composable",
                       "cross-platform",
@@ -2610,7 +2610,7 @@
                     "open_issues": 15,
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5680,
+                    "stars": 5681,
                     "topics": [
                       "android",
                       "directx",
@@ -2652,7 +2652,7 @@
                     "open_issues": 2,
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
-                    "stars": 1934,
+                    "stars": 1935,
                     "topics": [
                       "c-plus-plus",
                       "ecs",
@@ -2682,7 +2682,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 edyn",
-                  "description": "A real-time physics engine organized as an ECS. ⭐ 790",
+                  "description": "A real-time physics engine organized as an ECS. ⭐ 792",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2695,7 +2695,7 @@
                     "open_issues": 4,
                     "owner": "xissburg",
                     "repo": "edyn",
-                    "stars": 793,
+                    "stars": 792,
                     "topics": [
                       "ecs",
                       "entity-component-system",
@@ -2886,7 +2886,7 @@
                 "open_issues": 4,
                 "owner": "dbartolini",
                 "repo": "data-oriented-design",
-                "stars": 4490,
+                "stars": 4491,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:10:29.381Z",
+    "last_updated": "2026-10-13T01:37:24.174Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
@@ -2937,7 +2937,7 @@
       "id": 159918826,
       "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-10-10T21:14:00Z",
+      "last_commit": "2026-10-12T20:00:52Z",
       "open_issues": 2,
       "owner": "jslee02",
       "repo": "awesome-entity-component-system",
@@ -2950,7 +2950,7 @@
         "game-engine"
       ]
     },
-    "original_repository_sha": "0cf92091076f13e935f83158d516798f051d1f59",
+    "original_repository_sha": "75a548f6de6f81ccdb47aa240d1a8a4ced22668f",
     "enhanced_repository": "enhansome/enhansome-entity-component-system",
     "enhanced_repository_description": null,
     "title": "Awesome ECS with stars"

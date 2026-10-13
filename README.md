@@ -28,13 +28,13 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### C/C++
 
-* 🟢 [entt](https://github.com/skypjack/entt) ⭐ 13,187 | 🐛 14 | 🌐 C++ | 📅 2026-10-09 - Fast and reliable entity-component system. [⭐ 13.2k](https://github.com/skypjack/entt) ⭐ 13,187 | 🐛 14 | 🌐 C++ | 📅 2026-10-09
-* 🟢 [Flecs](https://github.com/SanderMertens/flecs) ⭐ 8,736 | 🐛 62 | 🌐 C | 📅 2026-10-03 - A Multithreaded Entity Component System written for C89 & C99. [⭐ 8.7k](https://github.com/SanderMertens/flecs) ⭐ 8,736 | 🐛 62 | 🌐 C | 📅 2026-10-03
-* 🟢 [WickedEngine's ECS](https://github.com/turanszkij/WickedEngine/blob/master/WickedEngine/wiECS.h) ⭐ 7,284 | 🐛 114 | 🌐 C++ | 📅 2026-10-09 - WickedEngine's ECS implementation. [⭐ 7.3k](https://github.com/turanszkij/WickedEngine) ⭐ 7,284 | 🐛 114 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [entt](https://github.com/skypjack/entt) ⭐ 13,188 | 🐛 14 | 🌐 C++ | 📅 2026-10-12 - Fast and reliable entity-component system. [⭐ 13.2k](https://github.com/skypjack/entt) ⭐ 13,188 | 🐛 14 | 🌐 C++ | 📅 2026-10-12
+* 🟢 [Flecs](https://github.com/SanderMertens/flecs) ⭐ 8,738 | 🐛 62 | 🌐 C | 📅 2026-10-03 - A Multithreaded Entity Component System written for C89 & C99. [⭐ 8.7k](https://github.com/SanderMertens/flecs) ⭐ 8,738 | 🐛 62 | 🌐 C | 📅 2026-10-03
+* 🟢 [WickedEngine's ECS](https://github.com/turanszkij/WickedEngine/blob/master/WickedEngine/wiECS.h) ⭐ 7,287 | 🐛 114 | 🌐 C++ | 📅 2026-10-12 - WickedEngine's ECS implementation. [⭐ 7.3k](https://github.com/turanszkij/WickedEngine) ⭐ 7,287 | 🐛 114 | 🌐 C++ | 📅 2026-10-12
 * 🟡 [EntityX](https://github.com/alecthomas/entityx) ⭐ 2,346 | 🐛 18 | 🌐 C++ | 📅 2025-08-23 - Fast, type-safe C++ entity component system. [⭐ 2.3k](https://github.com/alecthomas/entityx) ⭐ 2,346 | 🐛 18 | 🌐 C++ | 📅 2025-08-23
 * 🔴 [Kengine](https://github.com/phisko/kengine) ⭐ 618 | 🐛 1 | 🌐 C++ | 📅 2023-03-10 - Game engine with an Entity-Component-System (ECS) architecture. [⭐ 618](https://github.com/phisko/kengine) ⭐ 618 | 🐛 1 | 🌐 C++ | 📅 2023-03-10
 * 🟢 [pico\_ecs](https://github.com/empyreanx/pico_headers) ⭐ 564 | 🐛 4 | 🌐 C | 📅 2026-08-22 - Single-header and cross-platform ECS. [⭐ 564](https://github.com/empyreanx/pico_headers) ⭐ 564 | 🐛 4 | 🌐 C | 📅 2026-08-22
-* 🔴 [ecst](https://github.com/vittorioromeo/ecst) ⭐ 490 | 🐛 14 | 🌐 C++ | 📅 2019-09-03 - Experimental C++14 multithreaded compile-time entity-compnent-system library. [⭐ 491](https://github.com/vittorioromeo/ecst) ⭐ 490 | 🐛 14 | 🌐 C++ | 📅 2019-09-03
+* 🔴 [ecst](https://github.com/vittorioromeo/ecst) ⭐ 490 | 🐛 14 | 🌐 C++ | 📅 2019-09-03 - Experimental C++14 multithreaded compile-time entity-compnent-system library. [⭐ 490](https://github.com/vittorioromeo/ecst) ⭐ 490 | 🐛 14 | 🌐 C++ | 📅 2019-09-03
 * 💀 [ECS](https://github.com/redxdev/ECS) ⚠️ Archived - C++ single-header entity component system library. [⭐ 481](https://github.com/redxdev/ECS) ⚠️ Archived
 * 💀 [anax](https://github.com/miguelmartin75/anax) ⚠️ Archived - Open source C++ entity system. [⭐ 460](https://github.com/miguelmartin75/anax) ⚠️ Archived
 * 🔴 [EntityPlus](https://github.com/Yelnats321/EntityPlus) ⭐ 192 | 🐛 8 | 🌐 C++ | 📅 2020-08-22 - C++14 entity component system. [⭐ 192](https://github.com/Yelnats321/EntityPlus) ⭐ 192 | 🐛 8 | 🌐 C++ | 📅 2020-08-22
@@ -48,20 +48,20 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### C\#
 
-* 🔴 [Entitas](https://github.com/sschmid/Entitas) ⭐ 7,678 | 🐛 97 | 🌐 C# | 📅 2023-12-30 - The Entity Component System Framework for C# and Unity. [⭐ 7.7k](https://github.com/sschmid/Entitas) ⭐ 7,678 | 🐛 97 | 🌐 C# | 📅 2023-12-30
+* 🔴 [Entitas](https://github.com/sschmid/Entitas) ⭐ 7,679 | 🐛 97 | 🌐 C# | 📅 2023-12-30 - The Entity Component System Framework for C# and Unity. [⭐ 7.7k](https://github.com/sschmid/Entitas) ⭐ 7,679 | 🐛 97 | 🌐 C# | 📅 2023-12-30
 * 🟢 [Arch](https://github.com/genaray/Arch) ⭐ 1,845 | 🐛 43 | 🌐 C# | 📅 2026-09-22 - A high-performance Archetype & Chunks Entity Component System for game development and data-oriented programming. [⭐ 1.8k](https://github.com/genaray/Arch) ⭐ 1,845 | 🐛 43 | 🌐 C# | 📅 2026-09-22
 * 🟡 [Svelto.ECS](https://github.com/sebas77/Svelto.ECS) ⭐ 1,366 | 🐛 2 | 🌐 C# | 📅 2025-05-01 - Lightweight data oriented entity component system framework. [⭐ 1.4k](https://github.com/sebas77/Svelto.ECS) ⭐ 1,366 | 🐛 2 | 🌐 C# | 📅 2025-05-01
-* 🟢 [Friflo Engine ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 785 | 🐛 41 | 🌐 C# | 📅 2026-09-25 - ECS for .NET with focus on performance, cache locality and DX. [⭐ 782](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 785 | 🐛 41 | 🌐 C# | 📅 2026-09-25
-* 🔴 [DefaultEcs](https://github.com/Doraku/DefaultEcs) ⭐ 765 | 🐛 20 | 🌐 C# | 📅 2024-03-01 - ECS for syntax and usage simplicity with maximum performance. [⭐ 764](https://github.com/Doraku/DefaultEcs) ⭐ 765 | 🐛 20 | 🌐 C# | 📅 2024-03-01
-* 🟡 [Morpeh](https://github.com/scellecs/morpeh) ⭐ 672 | 🐛 10 | 🌐 C# | 📅 2026-09-14 - ECS Framework for Unity Game Engine and .NET Platform. [⭐ 671](https://github.com/scellecs/morpeh) ⭐ 672 | 🐛 10 | 🌐 C# | 📅 2026-09-14
-* 🟢 [Fennecs](https://github.com/outfox/fennecs) ⭐ 470 | 🐛 8 | 🌐 C# | 📅 2026-10-08 - ... the tiny, tiny, high-energy Entity-Component System! [⭐ 468](https://github.com/outfox/fennecs) ⭐ 470 | 🐛 8 | 🌐 C# | 📅 2026-10-08
+* 🟢 [Friflo Engine ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 785 | 🐛 41 | 🌐 C# | 📅 2026-09-25 - ECS for .NET with focus on performance, cache locality and DX. [⭐ 785](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 785 | 🐛 41 | 🌐 C# | 📅 2026-09-25
+* 🔴 [DefaultEcs](https://github.com/Doraku/DefaultEcs) ⭐ 765 | 🐛 20 | 🌐 C# | 📅 2024-03-01 - ECS for syntax and usage simplicity with maximum performance. [⭐ 765](https://github.com/Doraku/DefaultEcs) ⭐ 765 | 🐛 20 | 🌐 C# | 📅 2024-03-01
+* 🟡 [Morpeh](https://github.com/scellecs/morpeh) ⭐ 672 | 🐛 10 | 🌐 C# | 📅 2026-09-14 - ECS Framework for Unity Game Engine and .NET Platform. [⭐ 672](https://github.com/scellecs/morpeh) ⭐ 672 | 🐛 10 | 🌐 C# | 📅 2026-09-14
+* 🟢 [Fennecs](https://github.com/outfox/fennecs) ⭐ 470 | 🐛 8 | 🌐 C# | 📅 2026-10-08 - ... the tiny, tiny, high-energy Entity-Component System! [⭐ 470](https://github.com/outfox/fennecs) ⭐ 470 | 🐛 8 | 🌐 C# | 📅 2026-10-08
 * 🟢 [DragonECS](https://github.com/DCFApixels/DragonECS) ⭐ 343 | 🐛 0 | 🌐 C# | 📅 2026-09-20 - ECS for Unity and .NET. [⭐ 343](https://github.com/DCFApixels/DragonECS) ⭐ 343 | 🐛 0 | 🌐 C# | 📅 2026-09-20
-* 🟢 [ME.BECS](https://github.com/chromealex/ME.BECS) ⭐ 257 | 🐛 1 | 🌐 C# | 📅 2026-10-08 - ECS for Unity with full game state automatic rollbacks. [⭐ 257](https://github.com/chromealex/ME.BECS) ⭐ 257 | 🐛 1 | 🌐 C# | 📅 2026-10-08
+* 🟢 [ME.BECS](https://github.com/chromealex/ME.BECS) ⭐ 257 | 🐛 1 | 🌐 C# | 📅 2026-10-12 - ECS for Unity with full game state automatic rollbacks. [⭐ 257](https://github.com/chromealex/ME.BECS) ⭐ 257 | 🐛 1 | 🌐 C# | 📅 2026-10-12
 * 🟢 [Massive ECS](https://github.com/nilpunch/massive-ecs) ⭐ 224 | 🐛 10 | 🌐 C# | 📅 2026-04-01 - Bitset-based ECS with rollbacks. C# library and Unity package. [⭐ 224](https://github.com/nilpunch/massive-ecs) ⭐ 224 | 🐛 10 | 🌐 C# | 📅 2026-04-01
 * 🟢 [Static ECS](https://github.com/Felid-Force-Studios/StaticEcs) ⭐ 211 | 🐛 0 | 🌐 C# | 📅 2026-10-07 - C# Hierarchical Inverted Bitmap ECS framework. [⭐ 211](https://github.com/Felid-Force-Studios/StaticEcs) ⭐ 211 | 🐛 0 | 🌐 C# | 📅 2026-10-07
 * 🟢 [Frent](https://github.com/itsBuggingMe/Frent) ⭐ 187 | 🐛 6 | 🌐 C# | 📅 2026-10-08 - Data oriented ECF with an ECS api for C#, Godot, and Unity. [⭐ 187](https://github.com/itsBuggingMe/Frent) ⭐ 187 | 🐛 6 | 🌐 C# | 📅 2026-10-08
 * 🟢 [TinyEcs](https://github.com/andreakarasho/TinyEcs) ⭐ 153 | 🐛 6 | 🌐 C# | 📅 2026-10-11 - A tiny bevy-like archetype-style ECS library for dotnet. [⭐ 153](https://github.com/andreakarasho/TinyEcs) ⭐ 153 | 🐛 6 | 🌐 C# | 📅 2026-10-11
-* 🔴 [LeoEcsLite](https://github.com/LeoECSCommunity/ecslite) ⭐ 62 | 🐛 1 | 🌐 C# | 📅 2022-07-15 - Lightweight C# Entity Component System framework. [⭐ 63](https://github.com/LeoECSCommunity/ecslite) ⭐ 62 | 🐛 1 | 🌐 C# | 📅 2022-07-15
+* 🔴 [LeoEcsLite](https://github.com/LeoECSCommunity/ecslite) ⭐ 62 | 🐛 1 | 🌐 C# | 📅 2022-07-15 - Lightweight C# Entity Component System framework. [⭐ 62](https://github.com/LeoECSCommunity/ecslite) ⭐ 62 | 🐛 1 | 🌐 C# | 📅 2022-07-15
 
 #### Common Lisp
 
@@ -79,25 +79,25 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### Python
 
-* 🟢 [esper](https://github.com/benmoran56/esper) ⭐ 703 | 🐛 2 | 🌐 Python | 📅 2026-09-20 - A lightweight Entity System for Python. [⭐ 702](https://github.com/benmoran56/esper) ⭐ 703 | 🐛 2 | 🌐 Python | 📅 2026-09-20
+* 🟢 [esper](https://github.com/benmoran56/esper) ⭐ 703 | 🐛 4 | 🌐 Python | 📅 2026-09-20 - A lightweight Entity System for Python. [⭐ 703](https://github.com/benmoran56/esper) ⭐ 703 | 🐛 4 | 🌐 Python | 📅 2026-09-20
 
 #### Rust
 
-* 🟢 [bevy\_ecs](https://github.com/bevyengine/bevy/tree/main/crates/bevy_ecs) ⭐ 48,904 | 🐛 3,476 | 🌐 Rust | 📅 2026-10-11 - Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. [⭐ 48.6k](https://github.com/bevyengine/bevy) ⭐ 48,904 | 🐛 3,476 | 🌐 Rust | 📅 2026-10-11
-* 🔴 [specs](https://github.com/amethyst/specs) ⭐ 2,616 | 🐛 48 | 🌐 Rust | 📅 2024-06-07 - Parallel entity component system written in Rust. [⭐ 2.6k](https://github.com/amethyst/specs) ⭐ 2,616 | 🐛 48 | 🌐 Rust | 📅 2024-06-07
-* 🔴 [legion](https://github.com/amethyst/legion) ⭐ 1,722 | 🐛 96 | 🌐 Rust | 📅 2021-12-30 - High performance Rust ECS library. [⭐ 1.7k](https://github.com/amethyst/legion) ⭐ 1,722 | 🐛 96 | 🌐 Rust | 📅 2021-12-30
-* 🟢 [hecs](https://github.com/Ralith/hecs) ⭐ 1,382 | 🐛 34 | 🌐 Rust | 📅 2026-10-08 - High-performance, minimalist entity-component-system. [⭐ 1.4k](https://github.com/Ralith/hecs) ⭐ 1,382 | 🐛 34 | 🌐 Rust | 📅 2026-10-08
-* 🟢 [shipyard](https://github.com/leudz/shipyard) ⭐ 892 | 🐛 8 | 🌐 Rust | 📅 2026-10-04 - Entity Component System written in Rust. [⭐ 889](https://github.com/leudz/shipyard) ⭐ 892 | 🐛 8 | 🌐 Rust | 📅 2026-10-04
+* 🟢 [bevy\_ecs](https://github.com/bevyengine/bevy/tree/main/crates/bevy_ecs) ⭐ 48,946 | 🐛 3,497 | 🌐 Rust | 📅 2026-10-12 - Simple to use, ergonomic, fast, massively parallel, opinionated, and featureful written in Rust. [⭐ 48.9k](https://github.com/bevyengine/bevy) ⭐ 48,946 | 🐛 3,497 | 🌐 Rust | 📅 2026-10-12
+* 🔴 [specs](https://github.com/amethyst/specs) ⭐ 2,615 | 🐛 48 | 🌐 Rust | 📅 2024-06-07 - Parallel entity component system written in Rust. [⭐ 2.6k](https://github.com/amethyst/specs) ⭐ 2,615 | 🐛 48 | 🌐 Rust | 📅 2024-06-07
+* 🔴 [legion](https://github.com/amethyst/legion) ⭐ 1,721 | 🐛 96 | 🌐 Rust | 📅 2021-12-30 - High performance Rust ECS library. [⭐ 1.7k](https://github.com/amethyst/legion) ⭐ 1,721 | 🐛 96 | 🌐 Rust | 📅 2021-12-30
+* 🟢 [hecs](https://github.com/Ralith/hecs) ⭐ 1,381 | 🐛 34 | 🌐 Rust | 📅 2026-10-08 - High-performance, minimalist entity-component-system. [⭐ 1.4k](https://github.com/Ralith/hecs) ⭐ 1,381 | 🐛 34 | 🌐 Rust | 📅 2026-10-08
+* 🟢 [shipyard](https://github.com/leudz/shipyard) ⭐ 891 | 🐛 8 | 🌐 Rust | 📅 2026-10-04 - Entity Component System written in Rust. [⭐ 891](https://github.com/leudz/shipyard) ⭐ 891 | 🐛 8 | 🌐 Rust | 📅 2026-10-04
 
 #### Go
 
 * 🔴 [ecs](https://github.com/EngoEngine/ecs) ⭐ 338 | 🐛 6 | 🌐 Go | 📅 2023-12-21 - A Go-implementation of the Entity-Component-System paradigm. [⭐ 338](https://github.com/EngoEngine/ecs) ⭐ 338 | 🐛 6 | 🌐 Go | 📅 2023-12-21
-* 🟢 [Ark](https://github.com/mlange-42/ark) ⭐ 302 | 🐛 7 | 🌐 Go | 📅 2026-08-17 - An archetype-based Entity Component System for Go. [⭐ 302](https://github.com/mlange-42/ark) ⭐ 302 | 🐛 7 | 🌐 Go | 📅 2026-08-17
+* 🟢 [Ark](https://github.com/mlange-42/ark) ⭐ 302 | 🐛 7 | 🌐 Go | 📅 2026-10-12 - An archetype-based Entity Component System for Go. [⭐ 302](https://github.com/mlange-42/ark) ⭐ 302 | 🐛 7 | 🌐 Go | 📅 2026-10-12
 
 #### Lua
 
 * 🔴 [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - Entity Component System for Lua that's simple, flexible, and useful. [⭐ 789](https://github.com/bakpakin/tiny-ecs) ⭐ 789 | 🐛 0 | 🌐 Lua | 📅 2023-03-15
-* 🟢 [Concord](https://github.com/Keyslam-Group/Concord) ⭐ 326 | 🐛 10 | 🌐 Lua | 📅 2026-09-07 - A feature-complete ECS library. [⭐ 327](https://github.com/Keyslam-Group/Concord) ⭐ 326 | 🐛 10 | 🌐 Lua | 📅 2026-09-07
+* 🟢 [Concord](https://github.com/Keyslam-Group/Concord) ⭐ 326 | 🐛 10 | 🌐 Lua | 📅 2026-09-07 - A feature-complete ECS library. [⭐ 326](https://github.com/Keyslam-Group/Concord) ⭐ 326 | 🐛 10 | 🌐 Lua | 📅 2026-09-07
 * 🔴 [ECS Lua](https://github.com/nidorx/ecs-lua) ⭐ 234 | 🐛 9 | 🌐 Lua | 📅 2024-06-24 - A fast and easy to use ECS engine for game development. [⭐ 234](https://github.com/nidorx/ecs-lua) ⭐ 234 | 🐛 9 | 🌐 Lua | 📅 2024-06-24
 * 🟢 [evolved.lua](https://github.com/BlackMATov/evolved.lua) ⭐ 224 | 🐛 1 | 🌐 Lua | 📅 2026-10-11 - Evolved ECS (Entity-Component-System) for Lua. [⭐ 224](https://github.com/BlackMATov/evolved.lua) ⭐ 224 | 🐛 1 | 🌐 Lua | 📅 2026-10-11
 * 🔴 [Nata](https://github.com/tesselode/nata) ⭐ 51 | 🐛 1 | 🌐 Lua | 📅 2021-01-20 - Entity management for Lua. [⭐ 51](https://github.com/tesselode/nata) ⭐ 51 | 🐛 1 | 🌐 Lua | 📅 2021-01-20
@@ -108,11 +108,11 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### Julia
 
-* 🟢 [Ark.jl](https://github.com/ark-ecs/Ark.jl) ⭐ 84 | 🐛 42 | 🌐 Julia | 📅 2026-10-11 - An archetype-based Entity Component System (ECS) for Julia. It is a port of the Go ECS Ark. [⭐ 84](https://github.com/ark-ecs/Ark.jl) ⭐ 84 | 🐛 42 | 🌐 Julia | 📅 2026-10-11
+* 🟢 [Ark.jl](https://github.com/ark-ecs/Ark.jl) ⭐ 84 | 🐛 44 | 🌐 Julia | 📅 2026-10-13 - An archetype-based Entity Component System (ECS) for Julia. It is a port of the Go ECS Ark. [⭐ 84](https://github.com/ark-ecs/Ark.jl) ⭐ 84 | 🐛 44 | 🌐 Julia | 📅 2026-10-13
 
 #### Kotlin
 
-* 🟢 [Fleks](https://github.com/Quillraven/Fleks) ⭐ 270 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-29 - Fast, lightweight, multi-platform entity component system in Kotlin. [⭐ 269](https://github.com/Quillraven/Fleks) ⭐ 270 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-29
+* 🟢 [Fleks](https://github.com/Quillraven/Fleks) ⭐ 270 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-29 - Fast, lightweight, multi-platform entity component system in Kotlin. [⭐ 270](https://github.com/Quillraven/Fleks) ⭐ 270 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-29
 
 #### JavaScript / TypeScript
 
@@ -125,7 +125,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### Zig
 
-* 🟢 [Zig ECS](https://github.com/prime31/zig-ecs) ⭐ 431 | 🐛 8 | 🌐 Zig | 📅 2026-05-18 - A Zig port of the fantasic Entt. [⭐ 430](https://github.com/prime31/zig-ecs) ⭐ 431 | 🐛 8 | 🌐 Zig | 📅 2026-05-18
+* 🟢 [Zig ECS](https://github.com/prime31/zig-ecs) ⭐ 431 | 🐛 8 | 🌐 Zig | 📅 2026-05-18 - A Zig port of the fantasic Entt. [⭐ 431](https://github.com/prime31/zig-ecs) ⭐ 431 | 🐛 8 | 🌐 Zig | 📅 2026-05-18
 * 🟢 [ZCS](https://github.com/Games-by-Mason/ZCS) ⭐ 151 | 🐛 20 | 🌐 Zig | 📅 2025-12-16 - An archetype based entity component system written in Zig. [⭐ 151](https://github.com/Games-by-Mason/ZCS) ⭐ 151 | 🐛 20 | 🌐 Zig | 📅 2025-12-16
 * 🟢 [knoedel](https://github.com/Lommix/knoedel) ⭐ 47 | 🐛 2 | 🌐 Zig | 📅 2026-09-25 - Data oriented application framework written in Zig (ECS). [⭐ 47](https://github.com/Lommix/knoedel) ⭐ 47 | 🐛 2 | 🌐 Zig | 📅 2026-09-25
 * 🔴 [mach-ecs](https://github.com/hexops-graveyard/mach-ecs) ⭐ 34 | 🐛 0 | 📅 2024-04-21 - Entity Component System from first-principles designed for Zig. [⭐ 34](https://github.com/hexops-graveyard/mach-ecs) ⭐ 34 | 🐛 0 | 📅 2024-04-21
@@ -143,21 +143,21 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### C++
 
-* 🟢 [WickedEngine](https://github.com/turanszkij/WickedEngine) ⭐ 7,284 | 🐛 114 | 🌐 C++ | 📅 2026-10-09 - 3D engine with modern graphics. [⭐ 7.3k](https://github.com/turanszkij/WickedEngine) ⭐ 7,284 | 🐛 114 | 🌐 C++ | 📅 2026-10-09
-* 🟢 [halley](https://github.com/amzeratul/halley) ⭐ 3,864 | 🐛 47 | 🌐 C | 📅 2026-10-11 - A lightweight game engine written in modern C++. [⭐ 3.9k](https://github.com/amzeratul/halley) ⭐ 3,864 | 🐛 47 | 🌐 C | 📅 2026-10-11
+* 🟢 [WickedEngine](https://github.com/turanszkij/WickedEngine) ⭐ 7,287 | 🐛 114 | 🌐 C++ | 📅 2026-10-12 - 3D engine with modern graphics. [⭐ 7.3k](https://github.com/turanszkij/WickedEngine) ⭐ 7,287 | 🐛 114 | 🌐 C++ | 📅 2026-10-12
+* 🟢 [halley](https://github.com/amzeratul/halley) ⭐ 3,865 | 🐛 47 | 🌐 C | 📅 2026-10-13 - A lightweight game engine written in modern C++. [⭐ 3.9k](https://github.com/amzeratul/halley) ⭐ 3,865 | 🐛 47 | 🌐 C | 📅 2026-10-13
 * 🟢 [Lumos](https://github.com/jmorton06/Lumos) ⭐ 1,598 | 🐛 3 | 🌐 C++ | 📅 2026-08-31 - Cross-Platform C++ 2D/3D game engine. [⭐ 1.6k](https://github.com/jmorton06/Lumos) ⭐ 1,598 | 🐛 3 | 🌐 C++ | 📅 2026-08-31
 * 🔴 [MxEngine](https://github.com/asc-community/MxEngine) ⭐ 1,230 | 🐛 18 | 🌐 C++ | 📅 2024-04-06 - C++ open source 3D game engine. [⭐ 1.2k](https://github.com/asc-community/MxEngine) ⭐ 1,230 | 🐛 18 | 🌐 C++ | 📅 2024-04-06
 * 🔴 [Sparky](https://github.com/TheCherno/Sparky) ⭐ 1,193 | 🐛 50 | 🌐 C++ | 📅 2020-03-21 - Cross-Platform High Performance 2D/3D game engine. [⭐ 1.2k](https://github.com/TheCherno/Sparky) ⭐ 1,193 | 🐛 50 | 🌐 C++ | 📅 2020-03-21
-* 🟢 [nebula](https://github.com/gscept/nebula) ⭐ 1,100 | 🐛 34 | 🌐 C++ | 📅 2026-10-11 - Open-source and free-to-use modern C++ game engine. [⭐ 1.1k](https://github.com/gscept/nebula) ⭐ 1,100 | 🐛 34 | 🌐 C++ | 📅 2026-10-11
-* 🟢 [Lina Engine](https://github.com/inanevin/LinaEngine) ⭐ 899 | 🐛 2 | 🌐 C++ | 📅 2025-10-08 - Modular, tiny and fast C++ game engine, aimed to develop 3D desktop games. [⭐ 899](https://github.com/inanevin/LinaEngine) ⭐ 899 | 🐛 2 | 🌐 C++ | 📅 2025-10-08
-* 🟢 [supernova](https://github.com/supernovaengine/supernova) ⭐ 864 | 🐛 15 | 🌐 C++ | 📅 2026-10-11 - Game engine for 2D and 3D projects with ECS and data-oriented design. [⭐ 858](https://github.com/supernovaengine/supernova) ⭐ 864 | 🐛 15 | 🌐 C++ | 📅 2026-10-11
-* 🟢 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) ⭐ 843 | 🐛 15 | 🌐 C++ | 📅 2026-10-06 - Cross-platform framework aimed at real-time applications requiring audio, 2D and 3D real-time rendering, network and more. [⭐ 845](https://github.com/NazaraEngine/NazaraEngine) ⭐ 843 | 🐛 15 | 🌐 C++ | 📅 2026-10-06
+* 🟢 [nebula](https://github.com/gscept/nebula) ⭐ 1,100 | 🐛 35 | 🌐 C++ | 📅 2026-10-11 - Open-source and free-to-use modern C++ game engine. [⭐ 1.1k](https://github.com/gscept/nebula) ⭐ 1,100 | 🐛 35 | 🌐 C++ | 📅 2026-10-11
+* 🟡 [Lina Engine](https://github.com/inanevin/LinaEngine) ⭐ 899 | 🐛 2 | 🌐 C++ | 📅 2025-10-08 - Modular, tiny and fast C++ game engine, aimed to develop 3D desktop games. [⭐ 899](https://github.com/inanevin/LinaEngine) ⭐ 899 | 🐛 2 | 🌐 C++ | 📅 2025-10-08
+* 🟢 [supernova](https://github.com/supernovaengine/supernova) ⭐ 869 | 🐛 15 | 🌐 C++ | 📅 2026-10-12 - Game engine for 2D and 3D projects with ECS and data-oriented design. [⭐ 866](https://github.com/supernovaengine/supernova) ⭐ 869 | 🐛 15 | 🌐 C++ | 📅 2026-10-12
+* 🟢 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) ⭐ 843 | 🐛 15 | 🌐 C++ | 📅 2026-10-06 - Cross-platform framework aimed at real-time applications requiring audio, 2D and 3D real-time rendering, network and more. [⭐ 843](https://github.com/NazaraEngine/NazaraEngine) ⭐ 843 | 🐛 15 | 🌐 C++ | 📅 2026-10-06
 * 🔴 [kengine](https://github.com/phisko/kengine) ⭐ 618 | 🐛 1 | 🌐 C++ | 📅 2023-03-10 - Game engine focused on ease-of-use, runtime extensibility and compile-time type safety. [⭐ 618](https://github.com/phisko/kengine) ⭐ 618 | 🐛 1 | 🌐 C++ | 📅 2023-03-10
 * 🔴 [Engine](https://github.com/Shervanator/Engine) ⭐ 301 | 🐛 14 | 🌐 C++ | 📅 2018-08-04 - Basic cross-platform 3D game engine. [⭐ 301](https://github.com/Shervanator/Engine) ⭐ 301 | 🐛 14 | 🌐 C++ | 📅 2018-08-04
-* 💀 [shiva](https://github.com/Milerius/shiva) ⚠️ Archived - Modern Cross-Platform C++ Engine with modularity. [⭐ 159](https://github.com/Milerius/shiva) ⚠️ Archived
+* 💀 [shiva](https://github.com/Milerius/shiva) ⚠️ Archived - Modern Cross-Platform C++ Engine with modularity. [⭐ 160](https://github.com/Milerius/shiva) ⚠️ Archived
 * 🔴 [Usagi](https://github.com/vitei/Usagi) ⭐ 57 | 🐛 1 | 🌐 C++ | 📅 2026-09-26 - Hierarchical component entity system based game engine. [⭐ 57](https://github.com/vitei/Usagi) ⭐ 57 | 🐛 1 | 🌐 C++ | 📅 2026-09-26
 * 🔴 [igneous](https://github.com/MissingBitStudios/igneous) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2020-10-03 - Open source game engine written in C++. [⭐ 52](https://github.com/MissingBitStudios/igneous) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2020-10-03
-* 🟢 [crown](https://github.com/dbartolini/crown) ⭐ 30 | 🐛 0 | 🌐 C++ | 📅 2026-10-11 - General purpose data-driven game engine. [⭐ 30](https://github.com/dbartolini/crown) ⭐ 30 | 🐛 0 | 🌐 C++ | 📅 2026-10-11
+* 🟢 [crown](https://github.com/dbartolini/crown) ⭐ 30 | 🐛 0 | 🌐 C++ | 📅 2026-10-12 - General purpose data-driven game engine. [⭐ 30](https://github.com/dbartolini/crown) ⭐ 30 | 🐛 0 | 🌐 C++ | 📅 2026-10-12
 
 #### Go
 
@@ -165,14 +165,14 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### Rust
 
-* 🟢 [Bevy](https://github.com/bevyengine/bevy) ⭐ 48,904 | 🐛 3,476 | 🌐 Rust | 📅 2026-10-11 - A refreshingly simple data-driven game engine built in Rust. [⭐ 48.6k](https://github.com/bevyengine/bevy) ⭐ 48,904 | 🐛 3,476 | 🌐 Rust | 📅 2026-10-11
+* 🟢 [Bevy](https://github.com/bevyengine/bevy) ⭐ 48,946 | 🐛 3,497 | 🌐 Rust | 📅 2026-10-12 - A refreshingly simple data-driven game engine built in Rust. [⭐ 48.9k](https://github.com/bevyengine/bevy) ⭐ 48,946 | 🐛 3,497 | 🌐 Rust | 📅 2026-10-12
 * 💀 [Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived - Data-oriented and data-driven game engine written in Rust. [⭐ 8.0k](https://github.com/amethyst/amethyst) ⚠️ Archived
-* 🟡 [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,907 | 🐛 281 | 🌐 Rust | 📅 2025-01-07 - The multiplayer game engine. [⭐ 3.9k](https://github.com/AmbientRun/Ambient) ⭐ 3,907 | 🐛 281 | 🌐 Rust | 📅 2025-01-07
-* 🟢 [Bones](https://github.com/fishfolk/bones) ⭐ 315 | 🐛 66 | 🌐 Rust | 📅 2026-04-24 - An easy-to-use game engine for making real games. [⭐ 313](https://github.com/fishfolk/bones) ⭐ 315 | 🐛 66 | 🌐 Rust | 📅 2026-04-24
+* 🟡 [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,906 | 🐛 281 | 🌐 Rust | 📅 2025-01-07 - The multiplayer game engine. [⭐ 3.9k](https://github.com/AmbientRun/Ambient) ⭐ 3,906 | 🐛 281 | 🌐 Rust | 📅 2025-01-07
+* 🟢 [Bones](https://github.com/fishfolk/bones) ⭐ 314 | 🐛 69 | 🌐 Rust | 📅 2026-10-12 - An easy-to-use game engine for making real games. [⭐ 314](https://github.com/fishfolk/bones) ⭐ 314 | 🐛 69 | 🌐 Rust | 📅 2026-10-12
 
 #### Zig
 
-* 🟢 [mach](https://github.com/hexops/mach) ⭐ 4,846 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 - Game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps. [⭐ 4.8k](https://github.com/hexops/mach) ⭐ 4,846 | 🐛 167 | 🌐 Zig | 📅 2026-05-23
+* 🟢 [mach](https://github.com/hexops/mach) ⭐ 4,848 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 - Game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps. [⭐ 4.8k](https://github.com/hexops/mach) ⭐ 4,848 | 🐛 167 | 🌐 Zig | 📅 2026-05-23
 
 ### [Graphics Engines](#contents)
 
@@ -180,8 +180,8 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### C++
 
-* 🟢 [The Forge](https://github.com/ConfettiFX/The-Forge) ⭐ 5,680 | 🐛 15 | 🌐 C++ | 📅 2026-08-27 - Cross-Platform Rendering Framework with support for PC Windows, Linux, Ray Tracing, macOS/iOS, Android, XBOX, PS4, PS5, Switch, Quest 2. [⭐ 5.7k](https://github.com/ConfettiFX/The-Forge) ⭐ 5,680 | 🐛 15 | 🌐 C++ | 📅 2026-08-27
-* 🟢 [bs::framework](https://github.com/GameFoundry/bsf) ⭐ 1,934 | 🐛 2 | 🌐 C++ | 📅 2026-10-09 - Modern C++14 library for the development of real-time graphical applications. [⭐ 1.9k](https://github.com/GameFoundry/bsf) ⭐ 1,934 | 🐛 2 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [The Forge](https://github.com/ConfettiFX/The-Forge) ⭐ 5,681 | 🐛 15 | 🌐 C++ | 📅 2026-08-27 - Cross-Platform Rendering Framework with support for PC Windows, Linux, Ray Tracing, macOS/iOS, Android, XBOX, PS4, PS5, Switch, Quest 2. [⭐ 5.7k](https://github.com/ConfettiFX/The-Forge) ⭐ 5,681 | 🐛 15 | 🌐 C++ | 📅 2026-08-27
+* 🟢 [bs::framework](https://github.com/GameFoundry/bsf) ⭐ 1,935 | 🐛 2 | 🌐 C++ | 📅 2026-10-09 - Modern C++14 library for the development of real-time graphical applications. [⭐ 1.9k](https://github.com/GameFoundry/bsf) ⭐ 1,935 | 🐛 2 | 🌐 C++ | 📅 2026-10-09
 
 ### [Physics Libraries](#contents)
 
@@ -189,7 +189,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 #### C++
 
-* 🟢 [edyn](https://github.com/xissburg/edyn) ⭐ 793 | 🐛 4 | 🌐 C++ | 📅 2026-09-08 - A real-time physics engine organized as an ECS. [⭐ 790](https://github.com/xissburg/edyn) ⭐ 793 | 🐛 4 | 🌐 C++ | 📅 2026-09-08
+* 🟢 [edyn](https://github.com/xissburg/edyn) ⭐ 792 | 🐛 4 | 🌐 C++ | 📅 2026-09-08 - A real-time physics engine organized as an ECS. [⭐ 792](https://github.com/xissburg/edyn) ⭐ 792 | 🐛 4 | 🌐 C++ | 📅 2026-09-08
 
 ## [Other Resources](#contents)
 
@@ -250,7 +250,7 @@ A curated list of Entity-Component-System (ECS) libraries and resources.
 
 *Related curated lists.*
 
-* [Entity Component System & Data Oriented Design](https://github.com/dbartolini/data-oriented-design) ⭐ 4,490 | 🐛 4 | 📅 2026-09-17
+* [Entity Component System & Data Oriented Design](https://github.com/dbartolini/data-oriented-design) ⭐ 4,491 | 🐛 4 | 📅 2026-09-17
 
 ### [ETC](#contents)
 
@@ -273,4 +273,4 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
