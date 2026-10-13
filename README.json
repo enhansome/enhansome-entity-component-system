@@ -17,11 +17,11 @@
                 "id": 86337343,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T16:12:29Z",
+                "last_commit": "2026-10-13T16:04:14Z",
                 "open_issues": 14,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13188,
+                "stars": 13192,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -63,7 +63,7 @@
                 "open_issues": 62,
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8738,
+                "stars": 8741,
                 "topics": [
                   "c99",
                   "cpp11",
@@ -103,7 +103,7 @@
                 "open_issues": 114,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7287,
+                "stars": 7289,
                 "topics": [
                   "audio",
                   "directx12",
@@ -147,47 +147,6 @@
             },
             {
               "node_type": "item",
-              "title": "🔴 Kengine",
-              "description": "Game engine with an Entity-Component-System (ECS) architecture. ⭐ 618",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.",
-                "homepage": null,
-                "id": 89867048,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2023-03-10T12:07:24Z",
-                "open_issues": 1,
-                "owner": "phisko",
-                "repo": "kengine",
-                "stars": 618,
-                "topics": [
-                  "cpp",
-                  "cpp-game-engine",
-                  "cpp-library",
-                  "cpp-templates",
-                  "cpp17",
-                  "ecs",
-                  "engine",
-                  "entity",
-                  "entity-component",
-                  "entity-component-system",
-                  "entt",
-                  "game",
-                  "game-development",
-                  "game-engine",
-                  "gamedev",
-                  "gameobject",
-                  "lua-script",
-                  "modern-cpp",
-                  "python-script"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
               "title": "🟢 pico_ecs",
               "description": "Single-header and cross-platform ECS. ⭐ 564",
               "children": [],
@@ -204,110 +163,6 @@
                 "repo": "pico_headers",
                 "stars": 564,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 ecst",
-              "description": "Experimental C++14 multithreaded compile-time entity-compnent-system library. ⭐ 490",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[WIP] Experimental C++14 multithreaded compile-time entity-component-system library.",
-                "homepage": "http://vittorioromeo.info",
-                "id": 57969328,
-                "language": "C++",
-                "license": "NOASSERTION",
-                "last_commit": "2019-09-03T09:32:19Z",
-                "open_issues": 14,
-                "owner": "vittorioromeo",
-                "repo": "ecst",
-                "stars": 490,
-                "topics": [
-                  "cpp",
-                  "cpp11",
-                  "cpp14",
-                  "entity",
-                  "entity-component",
-                  "generic",
-                  "library",
-                  "parallel",
-                  "thesis"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "💀 ECS",
-              "description": "C++ single-header entity component system library. ⭐ 481",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "C++ single-header entity component system library",
-                "homepage": null,
-                "id": 69604895,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2020-08-19T21:14:02Z",
-                "open_issues": 0,
-                "owner": "redxdev",
-                "repo": "ECS",
-                "stars": 481,
-                "topics": [
-                  "cpp",
-                  "cpp11",
-                  "entity-component-system",
-                  "single-header-lib"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "💀 anax",
-              "description": "Open source C++ entity system. ⭐ 460",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "An open source C++ entity system.",
-                "homepage": null,
-                "id": 9255755,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2021-03-11T17:29:04Z",
-                "open_issues": 26,
-                "owner": "miguelmartin75",
-                "repo": "anax",
-                "stars": 460,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 EntityPlus",
-              "description": "C++14 entity component system. ⭐ 192",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A C++14 Entity Component System",
-                "homepage": null,
-                "id": 60579882,
-                "language": "C++",
-                "license": "BSL-1.0",
-                "last_commit": "2020-08-22T05:48:36Z",
-                "open_issues": 8,
-                "owner": "Yelnats321",
-                "repo": "EntityPlus",
-                "stars": 192,
-                "topics": [
-                  "entity",
-                  "entity-component",
-                  "entity-component-system",
-                  "gamedev"
-                ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
             },
@@ -355,27 +210,6 @@
             },
             {
               "node_type": "item",
-              "title": "🔴 EntityFu",
-              "description": "A simple, fast entity component system written in C++. ⭐ 86",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight entity component system (ECS) written in C++. ",
-                "homepage": null,
-                "id": 36043322,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2016-07-04T05:19:52Z",
-                "open_issues": 0,
-                "owner": "NatWeiss",
-                "repo": "EntityFu",
-                "stars": 86,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
               "title": "🟢 mustache",
               "description": "A fast, modern C++ entity component system. ⭐ 78",
               "children": [],
@@ -400,113 +234,6 @@
                 ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 Ginseng",
-              "description": "An ESC library designed for use in games. ⭐ 56",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An entity component framework.",
-                "homepage": null,
-                "id": 15659860,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2021-12-21T03:20:28Z",
-                "open_issues": 0,
-                "owner": "apples",
-                "repo": "ginseng",
-                "stars": 56,
-                "topics": [
-                  "ecs",
-                  "entity-component-system",
-                  "hacktoberfest"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 ecs.hpp",
-              "description": "A single header C++14 entity component system library. ⭐ 41",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "C++17 Entity Component System",
-                "homepage": "https://blackmatov.github.io/ecs.hpp",
-                "id": 162935960,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2023-01-07T09:06:04Z",
-                "open_issues": 7,
-                "owner": "BlackMATov",
-                "repo": "ecs.hpp",
-                "stars": 41,
-                "topics": [
-                  "c-plus-plus",
-                  "c-plus-plus-14",
-                  "cpp",
-                  "cpp14",
-                  "ecs",
-                  "entity-component-system"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 matter",
-              "description": "C++17/20 ECS implementation. ⭐ 21",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "C++20 highly parallel ECS implementation",
-                "homepage": null,
-                "id": 155258116,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2019-10-03T12:31:09Z",
-                "open_issues": 21,
-                "owner": "frengels",
-                "repo": "matter",
-                "stars": 21,
-                "topics": [
-                  "concurrent",
-                  "cpp",
-                  "cpp20",
-                  "ecs",
-                  "entity-component-system",
-                  "template-metaprogramming"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 goomy",
-              "description": "A tiny, experimental ECS framework. ⭐ 14",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A tiny, experimental ECS framework.",
-                "homepage": null,
-                "id": 182013354,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2019-04-28T03:29:09Z",
-                "open_issues": 0,
-                "owner": "vberlier",
-                "repo": "goomy",
-                "stars": 14,
-                "topics": [
-                  "cpp17",
-                  "ecs-framework",
-                  "experimental",
-                  "template-metaprogramming"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
             }
           ],
           "description": null,
@@ -515,44 +242,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "🔴 Entitas",
-              "description": "The Entity Component System Framework for C# and Unity. ⭐ 7.7k",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity",
-                "homepage": null,
-                "id": 17873382,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2023-12-30T16:18:56Z",
-                "open_issues": 97,
-                "owner": "sschmid",
-                "repo": "Entitas",
-                "stars": 7679,
-                "topics": [
-                  "c-sharp",
-                  "code-generation",
-                  "csharp",
-                  "design-pattern",
-                  "design-patterns",
-                  "ecs",
-                  "entity",
-                  "entity-component-system",
-                  "game",
-                  "game-development",
-                  "game-engine",
-                  "gamedev",
-                  "performance",
-                  "tdd",
-                  "unity",
-                  "unity3d"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
             {
               "node_type": "item",
               "title": "🟢 Arch",
@@ -569,7 +258,7 @@
                 "open_issues": 43,
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1845,
+                "stars": 1847,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -637,7 +326,7 @@
                 "id": 833054804,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T13:51:48Z",
+                "last_commit": "2026-10-13T07:32:52Z",
                 "open_issues": 41,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
@@ -661,36 +350,6 @@
                   "raylib",
                   "unity",
                   "xna"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 DefaultEcs",
-              "description": "ECS for syntax and usage simplicity with maximum performance. ⭐ 765",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Entity Component System framework aiming for syntax and usage simplicity with maximum performance for game development.",
-                "homepage": null,
-                "id": 121024896,
-                "language": "C#",
-                "license": "MIT-0",
-                "last_commit": "2024-03-01T16:21:19Z",
-                "open_issues": 20,
-                "owner": "Doraku",
-                "repo": "DefaultEcs",
-                "stars": 765,
-                "topics": [
-                  "c-sharp",
-                  "dotnet",
-                  "ecs",
-                  "entity-component-system",
-                  "game",
-                  "game-development",
-                  "game-engine",
-                  "gamedev"
                 ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -823,7 +482,7 @@
                 "open_issues": 10,
                 "owner": "nilpunch",
                 "repo": "massive-ecs",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "ecs",
                   "rollback-netcode"
@@ -933,119 +592,11 @@
                 ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 LeoEcsLite",
-              "description": "Lightweight C# Entity Component System framework. ⭐ 62",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LeoEcsLite - Lightweight C# Entity Component System framework ",
-                "homepage": null,
-                "id": 471492451,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2022-07-15T11:45:46Z",
-                "open_issues": 1,
-                "owner": "LeoECSCommunity",
-                "repo": "ecslite",
-                "stars": 62,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "C#"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔴 beast",
-              "description": "Basic Entity/Aspect/System Toolkit. ⭐ 30",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Basic Entity/Aspect/System Toolkit",
-                "homepage": "https://sjl.bitbucket.io/beast/",
-                "id": 65260369,
-                "language": "Common Lisp",
-                "license": "MIT",
-                "last_commit": "2021-08-29T18:41:35Z",
-                "open_issues": 0,
-                "owner": "sjl",
-                "repo": "beast",
-                "stars": 30,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 cl-ecs",
-              "description": "An implementation of the Entity-Component-System pattern mostly used in game development. ⭐ 8",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An implementation of the Entity-Component-System pattern mostly used in game development.",
-                "homepage": null,
-                "id": 61041705,
-                "language": "Common Lisp",
-                "license": null,
-                "last_commit": "2016-05-23T01:51:33Z",
-                "open_issues": 0,
-                "owner": "bit-phlippers",
-                "repo": "cl-ecs",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Common Lisp"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔴 Fast ECS",
-              "description": "Simple and fast Entity-Component-System (ECS) library written in Dart. ⭐ 17",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple and fast Entity-Component-System (ECS) library written in Dart.",
-                "homepage": null,
-                "id": 413390921,
-                "language": "Dart",
-                "license": "MIT",
-                "last_commit": "2021-12-11T11:25:02Z",
-                "open_issues": 1,
-                "owner": "QiXi",
-                "repo": "fast_ecs",
-                "stars": 17,
-                "topics": [
-                  "dart",
-                  "data-oriented-design",
-                  "ecs",
-                  "entity-component-system",
-                  "entity-framework",
-                  "fast",
-                  "fast-ecs",
-                  "game",
-                  "gamedev"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Dart"
         },
         {
           "children": [
@@ -1131,11 +682,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T18:20:09Z",
-                "open_issues": 3497,
+                "last_commit": "2026-10-13T19:38:07Z",
+                "open_issues": 3511,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48946,
+                "stars": 48975,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -1149,7 +700,7 @@
             },
             {
               "node_type": "item",
-              "title": "🔴 specs",
+              "title": "🟡 specs",
               "description": "Parallel entity component system written in Rust. ⭐ 2.6k",
               "children": [],
               "repo_info": {
@@ -1167,30 +718,6 @@
                 "topics": [
                   "ecs",
                   "parallel-ecs",
-                  "rust"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 legion",
-              "description": "High performance Rust ECS library. ⭐ 1.7k",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "High performance Rust ECS library",
-                "homepage": null,
-                "id": 174642569,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2021-12-30T19:05:52Z",
-                "open_issues": 96,
-                "owner": "amethyst",
-                "repo": "legion",
-                "stars": 1721,
-                "topics": [
-                  "ecs",
                   "rust"
                 ]
               },
@@ -1261,7 +788,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🔴 ecs",
+              "title": "🟡 ecs",
               "description": "A Go-implementation of the Entity-Component-System paradigm. ⭐ 338",
               "children": [],
               "repo_info": {
@@ -1319,32 +846,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🔴 tiny-ecs",
-              "description": "Entity Component System for Lua that's simple, flexible, and useful. ⭐ 789",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ECS for Lua ",
-                "homepage": "http://bakpakin.github.io/tiny-ecs/doc/",
-                "id": 32625028,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2023-03-15T01:27:58Z",
-                "open_issues": 0,
-                "owner": "bakpakin",
-                "repo": "tiny-ecs",
-                "stars": 789,
-                "topics": [
-                  "entity-component",
-                  "entity-component-system",
-                  "love2d",
-                  "lua"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
               "title": "🟢 Concord",
               "description": "A feature-complete ECS library. ⭐ 326",
               "children": [],
@@ -1365,32 +866,6 @@
                   "game-development",
                   "love2d",
                   "lua"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 ECS Lua",
-              "description": "A fast and easy to use ECS engine for game development. ⭐ 234",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.",
-                "homepage": null,
-                "id": 306048698,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2024-06-24T06:34:40Z",
-                "open_issues": 9,
-                "owner": "nidorx",
-                "repo": "ecs-lua",
-                "stars": 234,
-                "topics": [
-                  "lua",
-                  "luajit",
-                  "roblox",
-                  "robloxlua"
                 ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1421,67 +896,11 @@
                 ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔴 Nata",
-              "description": "Entity management for Lua. ⭐ 51",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Entity management for Lua.",
-                "homepage": "https://tesselode.github.io/nata/",
-                "id": 110418621,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2021-01-20T04:02:02Z",
-                "open_issues": 1,
-                "owner": "tesselode",
-                "repo": "nata",
-                "stars": 51,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Lua"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔴 Artemis-odb",
-              "description": "A continuation of the popular Artemis ECS framework. ⭐ 832",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A continuation of the popular Artemis ECS framework",
-                "homepage": null,
-                "id": 6331476,
-                "language": "Java",
-                "license": "BSD-2-Clause",
-                "last_commit": "2023-04-14T23:11:51Z",
-                "open_issues": 41,
-                "owner": "junkdog",
-                "repo": "artemis-odb",
-                "stars": 832,
-                "topics": [
-                  "artemis-odb",
-                  "entity-component-system",
-                  "framework",
-                  "gamedev",
-                  "gamedev-framework",
-                  "gamedev-library"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Java"
         },
         {
           "children": [
@@ -1497,8 +916,8 @@
                 "id": 1078993573,
                 "language": "Julia",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T00:48:51Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-13T10:38:10Z",
+                "open_issues": 42,
                 "owner": "ark-ecs",
                 "repo": "Ark.jl",
                 "stars": 84,
@@ -1573,7 +992,7 @@
                 "open_issues": 21,
                 "owner": "NateTheGreatt",
                 "repo": "bitECS",
-                "stars": 1519,
+                "stars": 1520,
                 "topics": [
                   "ecs",
                   "entitycomponentsystem",
@@ -1585,27 +1004,6 @@
                   "high-performance",
                   "particles"
                 ]
-              },
-              "first_seen": "2026-08-29T02:27:22.875Z"
-            },
-            {
-              "node_type": "item",
-              "title": "💀 ECSY",
-              "description": "Entity Component System for javascript. ⭐ 1.2k",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Entity Component System for javascript",
-                "homepage": "https://ecsyjs.github.io/ecsy/",
-                "id": 185996067,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2025-04-13T09:44:36Z",
-                "open_issues": 52,
-                "owner": "ecsyjs",
-                "repo": "ecsy",
-                "stars": 1154,
-                "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
             },
@@ -1664,7 +1062,7 @@
             },
             {
               "node_type": "item",
-              "title": "🔴 Thyseus",
+              "title": "🟡 Thyseus",
               "description": "An archetypal Entity Component System, built entirely in Typescript. ⭐ 86",
               "children": [],
               "repo_info": {
@@ -1803,7 +1201,7 @@
             },
             {
               "node_type": "item",
-              "title": "🔴 mach-ecs",
+              "title": "🟡 mach-ecs",
               "description": "Entity Component System from first-principles designed for Zig. ⭐ 34",
               "children": [],
               "repo_info": {
@@ -1874,6 +1272,594 @@
                 ]
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Entitas",
+                  "description": "The Entity Component System Framework for C# and Unity. ⭐ 7.7k · last commit 2023",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity",
+                    "homepage": null,
+                    "id": 17873382,
+                    "language": "C#",
+                    "license": "MIT",
+                    "last_commit": "2023-12-30T16:18:56Z",
+                    "open_issues": 97,
+                    "owner": "sschmid",
+                    "repo": "Entitas",
+                    "stars": 7678,
+                    "topics": [
+                      "c-sharp",
+                      "code-generation",
+                      "csharp",
+                      "design-pattern",
+                      "design-patterns",
+                      "ecs",
+                      "entity",
+                      "entity-component-system",
+                      "game",
+                      "game-development",
+                      "game-engine",
+                      "gamedev",
+                      "performance",
+                      "tdd",
+                      "unity",
+                      "unity3d"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "legion",
+                  "description": "High performance Rust ECS library. ⭐ 1.7k · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "High performance Rust ECS library",
+                    "homepage": null,
+                    "id": 174642569,
+                    "language": "Rust",
+                    "license": "MIT",
+                    "last_commit": "2021-12-30T19:05:52Z",
+                    "open_issues": 96,
+                    "owner": "amethyst",
+                    "repo": "legion",
+                    "stars": 1721,
+                    "topics": [
+                      "ecs",
+                      "rust"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "💀 ECSY",
+                  "description": "Entity Component System for javascript. ⭐ 1.2k · last commit 2025",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Entity Component System for javascript",
+                    "homepage": "https://ecsyjs.github.io/ecsy/",
+                    "id": 185996067,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2025-04-13T09:44:36Z",
+                    "open_issues": 52,
+                    "owner": "ecsyjs",
+                    "repo": "ecsy",
+                    "stars": 1154,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Artemis-odb",
+                  "description": "A continuation of the popular Artemis ECS framework. ⭐ 832 · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A continuation of the popular Artemis ECS framework",
+                    "homepage": null,
+                    "id": 6331476,
+                    "language": "Java",
+                    "license": "BSD-2-Clause",
+                    "last_commit": "2023-04-14T23:11:51Z",
+                    "open_issues": 41,
+                    "owner": "junkdog",
+                    "repo": "artemis-odb",
+                    "stars": 832,
+                    "topics": [
+                      "artemis-odb",
+                      "entity-component-system",
+                      "framework",
+                      "gamedev",
+                      "gamedev-framework",
+                      "gamedev-library"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "tiny-ecs",
+                  "description": "Entity Component System for Lua that's simple, flexible, and useful. ⭐ 789 · last commit 2020",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ECS for Lua ",
+                    "homepage": "http://bakpakin.github.io/tiny-ecs/doc/",
+                    "id": 32625028,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2023-03-15T01:27:58Z",
+                    "open_issues": 0,
+                    "owner": "bakpakin",
+                    "repo": "tiny-ecs",
+                    "stars": 789,
+                    "topics": [
+                      "entity-component",
+                      "entity-component-system",
+                      "love2d",
+                      "lua"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DefaultEcs",
+                  "description": "ECS for syntax and usage simplicity with maximum performance. ⭐ 765 · last commit 2023",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Entity Component System framework aiming for syntax and usage simplicity with maximum performance for game development.",
+                    "homepage": null,
+                    "id": 121024896,
+                    "language": "C#",
+                    "license": "MIT-0",
+                    "last_commit": "2024-03-01T16:21:19Z",
+                    "open_issues": 20,
+                    "owner": "Doraku",
+                    "repo": "DefaultEcs",
+                    "stars": 765,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "ecs",
+                      "entity-component-system",
+                      "game",
+                      "game-development",
+                      "game-engine",
+                      "gamedev"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kengine",
+                  "description": "Game engine with an Entity-Component-System (ECS) architecture. ⭐ 618 · last commit 2023",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.",
+                    "homepage": null,
+                    "id": 89867048,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2023-03-10T12:07:24Z",
+                    "open_issues": 1,
+                    "owner": "phisko",
+                    "repo": "kengine",
+                    "stars": 618,
+                    "topics": [
+                      "cpp",
+                      "cpp-game-engine",
+                      "cpp-library",
+                      "cpp-templates",
+                      "cpp17",
+                      "ecs",
+                      "engine",
+                      "entity",
+                      "entity-component",
+                      "entity-component-system",
+                      "entt",
+                      "game",
+                      "game-development",
+                      "game-engine",
+                      "gamedev",
+                      "gameobject",
+                      "lua-script",
+                      "modern-cpp",
+                      "python-script"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ecst",
+                  "description": "Experimental C++14 multithreaded compile-time entity-compnent-system library. ⭐ 490 · last commit 2018",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[WIP] Experimental C++14 multithreaded compile-time entity-component-system library.",
+                    "homepage": "http://vittorioromeo.info",
+                    "id": 57969328,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2019-09-03T09:32:19Z",
+                    "open_issues": 14,
+                    "owner": "vittorioromeo",
+                    "repo": "ecst",
+                    "stars": 490,
+                    "topics": [
+                      "cpp",
+                      "cpp11",
+                      "cpp14",
+                      "entity",
+                      "entity-component",
+                      "generic",
+                      "library",
+                      "parallel",
+                      "thesis"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "💀 ECS",
+                  "description": "C++ single-header entity component system library. ⭐ 481 · last commit 2019",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "C++ single-header entity component system library",
+                    "homepage": null,
+                    "id": 69604895,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2020-08-19T21:14:02Z",
+                    "open_issues": 0,
+                    "owner": "redxdev",
+                    "repo": "ECS",
+                    "stars": 481,
+                    "topics": [
+                      "cpp",
+                      "cpp11",
+                      "entity-component-system",
+                      "single-header-lib"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "💀 anax",
+                  "description": "Open source C++ entity system. ⭐ 460 · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "An open source C++ entity system.",
+                    "homepage": null,
+                    "id": 9255755,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2021-03-11T17:29:04Z",
+                    "open_issues": 26,
+                    "owner": "miguelmartin75",
+                    "repo": "anax",
+                    "stars": 460,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ECS Lua",
+                  "description": "A fast and easy to use ECS engine for game development. ⭐ 234 · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.",
+                    "homepage": null,
+                    "id": 306048698,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2024-06-24T06:34:40Z",
+                    "open_issues": 9,
+                    "owner": "nidorx",
+                    "repo": "ecs-lua",
+                    "stars": 234,
+                    "topics": [
+                      "lua",
+                      "luajit",
+                      "roblox",
+                      "robloxlua"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EntityPlus",
+                  "description": "C++14 entity component system. ⭐ 192 · last commit 2020",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A C++14 Entity Component System",
+                    "homepage": null,
+                    "id": 60579882,
+                    "language": "C++",
+                    "license": "BSL-1.0",
+                    "last_commit": "2020-08-22T05:48:36Z",
+                    "open_issues": 8,
+                    "owner": "Yelnats321",
+                    "repo": "EntityPlus",
+                    "stars": 192,
+                    "topics": [
+                      "entity",
+                      "entity-component",
+                      "entity-component-system",
+                      "gamedev"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EntityFu",
+                  "description": "A simple, fast entity component system written in C++. ⭐ 86 · last commit 2016",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A lightweight entity component system (ECS) written in C++. ",
+                    "homepage": null,
+                    "id": 36043322,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2016-07-04T05:19:52Z",
+                    "open_issues": 0,
+                    "owner": "NatWeiss",
+                    "repo": "EntityFu",
+                    "stars": 86,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "LeoEcsLite",
+                  "description": "Lightweight C# Entity Component System framework. ⭐ 62 · last commit 2022",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "LeoEcsLite - Lightweight C# Entity Component System framework ",
+                    "homepage": null,
+                    "id": 471492451,
+                    "language": "C#",
+                    "license": "MIT",
+                    "last_commit": "2022-07-15T11:45:46Z",
+                    "open_issues": 1,
+                    "owner": "LeoECSCommunity",
+                    "repo": "ecslite",
+                    "stars": 62,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ginseng",
+                  "description": "An ESC library designed for use in games. ⭐ 56 · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An entity component framework.",
+                    "homepage": null,
+                    "id": 15659860,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2021-12-21T03:20:28Z",
+                    "open_issues": 0,
+                    "owner": "apples",
+                    "repo": "ginseng",
+                    "stars": 56,
+                    "topics": [
+                      "ecs",
+                      "entity-component-system",
+                      "hacktoberfest"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nata",
+                  "description": "Entity management for Lua. ⭐ 51 · last commit 2020",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Entity management for Lua.",
+                    "homepage": "https://tesselode.github.io/nata/",
+                    "id": 110418621,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2021-01-20T04:02:02Z",
+                    "open_issues": 1,
+                    "owner": "tesselode",
+                    "repo": "nata",
+                    "stars": 51,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ecs.hpp",
+                  "description": "A single header C++14 entity component system library. ⭐ 41 · last commit 2023",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "C++17 Entity Component System",
+                    "homepage": "https://blackmatov.github.io/ecs.hpp",
+                    "id": 162935960,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2023-01-07T09:06:04Z",
+                    "open_issues": 7,
+                    "owner": "BlackMATov",
+                    "repo": "ecs.hpp",
+                    "stars": 41,
+                    "topics": [
+                      "c-plus-plus",
+                      "c-plus-plus-14",
+                      "cpp",
+                      "cpp14",
+                      "ecs",
+                      "entity-component-system"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "beast",
+                  "description": "Basic Entity/Aspect/System Toolkit. ⭐ 30 · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Basic Entity/Aspect/System Toolkit",
+                    "homepage": "https://sjl.bitbucket.io/beast/",
+                    "id": 65260369,
+                    "language": "Common Lisp",
+                    "license": "MIT",
+                    "last_commit": "2021-08-29T18:41:35Z",
+                    "open_issues": 0,
+                    "owner": "sjl",
+                    "repo": "beast",
+                    "stars": 30,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "matter",
+                  "description": "C++17/20 ECS implementation. ⭐ 21 · last commit 2019",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "C++20 highly parallel ECS implementation",
+                    "homepage": null,
+                    "id": 155258116,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2019-10-03T12:31:09Z",
+                    "open_issues": 21,
+                    "owner": "frengels",
+                    "repo": "matter",
+                    "stars": 21,
+                    "topics": [
+                      "concurrent",
+                      "cpp",
+                      "cpp20",
+                      "ecs",
+                      "entity-component-system",
+                      "template-metaprogramming"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fast ECS",
+                  "description": "Simple and fast Entity-Component-System (ECS) library written in Dart. ⭐ 17 · last commit 2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Simple and fast Entity-Component-System (ECS) library written in Dart.",
+                    "homepage": null,
+                    "id": 413390921,
+                    "language": "Dart",
+                    "license": "MIT",
+                    "last_commit": "2021-12-11T11:25:02Z",
+                    "open_issues": 1,
+                    "owner": "QiXi",
+                    "repo": "fast_ecs",
+                    "stars": 17,
+                    "topics": [
+                      "dart",
+                      "data-oriented-design",
+                      "ecs",
+                      "entity-component-system",
+                      "entity-framework",
+                      "fast",
+                      "fast-ecs",
+                      "game",
+                      "gamedev"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "goomy",
+                  "description": "A tiny, experimental ECS framework. ⭐ 14 · last commit 2019",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A tiny, experimental ECS framework.",
+                    "homepage": null,
+                    "id": 182013354,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2019-04-28T03:29:09Z",
+                    "open_issues": 0,
+                    "owner": "vberlier",
+                    "repo": "goomy",
+                    "stars": 14,
+                    "topics": [
+                      "cpp17",
+                      "ecs-framework",
+                      "experimental",
+                      "template-metaprogramming"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "cl-ecs",
+                  "description": "An implementation of the Entity-Component-System pattern mostly used in game development. ⭐ 8 · last commit 2016",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An implementation of the Entity-Component-System pattern mostly used in game development.",
+                    "homepage": null,
+                    "id": 61041705,
+                    "language": "Common Lisp",
+                    "license": null,
+                    "last_commit": "2016-05-23T01:51:33Z",
+                    "open_issues": 0,
+                    "owner": "bit-phlippers",
+                    "repo": "cl-ecs",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Inactive (22): archived or no commits for 3+ years"
             }
           ],
           "description": null,
@@ -1906,7 +1892,7 @@
                     "open_issues": 114,
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
-                    "stars": 7287,
+                    "stars": 7289,
                     "topics": [
                       "audio",
                       "directx12",
@@ -1939,11 +1925,11 @@
                     "id": 43295328,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T00:32:50Z",
+                    "last_commit": "2026-10-13T16:12:42Z",
                     "open_issues": 47,
                     "owner": "amzeratul",
                     "repo": "halley",
-                    "stars": 3865,
+                    "stars": 3866,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1982,7 +1968,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "🔴 MxEngine",
+                  "title": "🟡 MxEngine",
                   "description": "C++ open source 3D game engine. ⭐ 1.2k",
                   "children": [],
                   "repo_info": {
@@ -1996,7 +1982,7 @@
                     "open_issues": 18,
                     "owner": "ASC-Community",
                     "repo": "MxEngine",
-                    "stars": 1230,
+                    "stars": 1231,
                     "topics": [
                       "3d-graphics",
                       "cpp",
@@ -2006,32 +1992,6 @@
                       "mxengine",
                       "open-source",
                       "opengl"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "🔴 Sparky",
-                  "description": "Cross-Platform High Performance 2D/3D game engine. ⭐ 1.2k",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Cross-Platform High Performance 2D/3D game engine for people like me who like to write code.",
-                    "homepage": null,
-                    "id": 32199327,
-                    "language": "C++",
-                    "license": "Apache-2.0",
-                    "last_commit": "2020-03-21T13:12:54Z",
-                    "open_issues": 50,
-                    "owner": "TheCherno",
-                    "repo": "Sparky",
-                    "stars": 1193,
-                    "topics": [
-                      "c-plus-plus",
-                      "game-development",
-                      "game-engine",
-                      "sparky"
                     ]
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2052,7 +2012,7 @@
                     "open_issues": 35,
                     "owner": "gscept",
                     "repo": "nebula",
-                    "stars": 1100,
+                    "stars": 1101,
                     "topics": [
                       "classless-api",
                       "data-oriented-architecture",
@@ -2113,7 +2073,7 @@
                     "id": 64516740,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T20:32:33Z",
+                    "last_commit": "2026-10-13T22:09:53Z",
                     "open_issues": 15,
                     "owner": "doriaxengine",
                     "repo": "doriax",
@@ -2179,185 +2139,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "🔴 kengine",
-                  "description": "Game engine focused on ease-of-use, runtime extensibility and compile-time type safety. ⭐ 618",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.",
-                    "homepage": null,
-                    "id": 89867048,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2023-03-10T12:07:24Z",
-                    "open_issues": 1,
-                    "owner": "phisko",
-                    "repo": "kengine",
-                    "stars": 618,
-                    "topics": [
-                      "cpp",
-                      "cpp-game-engine",
-                      "cpp-library",
-                      "cpp-templates",
-                      "cpp17",
-                      "ecs",
-                      "engine",
-                      "entity",
-                      "entity-component",
-                      "entity-component-system",
-                      "entt",
-                      "game",
-                      "game-development",
-                      "game-engine",
-                      "gamedev",
-                      "gameobject",
-                      "lua-script",
-                      "modern-cpp",
-                      "python-script"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "🔴 Engine",
-                  "description": "Basic cross-platform 3D game engine. ⭐ 301",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A basic cross-platform 3D game engine",
-                    "homepage": "https://shervanator.github.io/Engine/",
-                    "id": 18516055,
-                    "language": "C++",
-                    "license": "GPL-3.0",
-                    "last_commit": "2018-08-04T10:04:17Z",
-                    "open_issues": 14,
-                    "owner": "Shervanator",
-                    "repo": "Engine",
-                    "stars": 301,
-                    "topics": [
-                      "3d",
-                      "3d-game-engine",
-                      "android",
-                      "assimp",
-                      "bullet-physics",
-                      "c-plus-plus",
-                      "cmake",
-                      "cross-platform",
-                      "dank",
-                      "dear-imgui",
-                      "emscripten",
-                      "engine",
-                      "game",
-                      "game-engine",
-                      "lighting",
-                      "linux",
-                      "mac",
-                      "opengl",
-                      "sdl2",
-                      "windows"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "💀 shiva",
-                  "description": "Modern Cross-Platform C++ Engine with modularity. ⭐ 160",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Modern Cross-Platform C++ Engine with modularity (MIT). Maintains here: https://github.com/KomodoPlatform/antara-gaming-sdk",
-                    "homepage": null,
-                    "id": 131817435,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2019-09-14T16:02:56Z",
-                    "open_issues": 3,
-                    "owner": "Milerius",
-                    "repo": "shiva",
-                    "stars": 160,
-                    "topics": [
-                      "c",
-                      "cmake-modules",
-                      "cpp",
-                      "cpp-library",
-                      "cpp17",
-                      "game-engine",
-                      "game-engine-framework"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "🔴 Usagi",
-                  "description": "Hierarchical component entity system based game engine. ⭐ 57",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A hierarchical component entity system based game engine",
-                    "homepage": null,
-                    "id": 130516976,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2026-09-26T12:56:24Z",
-                    "open_issues": 1,
-                    "owner": "vitei",
-                    "repo": "Usagi",
-                    "stars": 57,
-                    "topics": [
-                      "ecs",
-                      "entity-component-system",
-                      "game-engine",
-                      "vulkan"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "🔴 igneous",
-                  "description": "Open source game engine written in C++. ⭐ 52",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Igneous is an open source game engine written in C++.",
-                    "homepage": null,
-                    "id": 158773133,
-                    "language": "C++",
-                    "license": "CC-BY-4.0",
-                    "last_commit": "2020-10-03T01:56:19Z",
-                    "open_issues": 0,
-                    "owner": "MissingBitStudios",
-                    "repo": "igneous",
-                    "stars": 52,
-                    "topics": [
-                      "assimp",
-                      "bgfx",
-                      "bullet-physics",
-                      "cmake",
-                      "cpp",
-                      "directx",
-                      "entt",
-                      "game-development",
-                      "game-engine",
-                      "glfw",
-                      "glm",
-                      "imgui",
-                      "linux",
-                      "macos",
-                      "metal",
-                      "openal",
-                      "opengl",
-                      "raknet",
-                      "windows"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "🟢 crown",
                   "description": "General purpose data-driven game engine. ⭐ 30",
                   "children": [],
@@ -2368,11 +2149,11 @@
                     "id": 911381276,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T20:44:36Z",
+                    "last_commit": "2026-10-13T22:49:39Z",
                     "open_issues": 0,
                     "owner": "dbartolini",
                     "repo": "crown",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2386,7 +2167,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "🔴 Engo",
+                  "title": "🟡 Engo",
                   "description": "A cross-platform game engine written in Go following an interpretation of the Entity Component System paradigm. ⭐ 1.8k",
                   "children": [],
                   "repo_info": {
@@ -2430,44 +2211,17 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T18:20:09Z",
-                    "open_issues": 3497,
+                    "last_commit": "2026-10-13T19:38:07Z",
+                    "open_issues": 3511,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 48946,
+                    "stars": 48975,
                     "topics": [
                       "bevy",
                       "game-development",
                       "game-engine",
                       "gamedev",
                       "open-source",
-                      "rust"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "💀 Amethyst",
-                  "description": "Data-oriented and data-driven game engine written in Rust. ⭐ 8.0k",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Data-oriented and data-driven game engine written in Rust",
-                    "homepage": "https://amethyst.rs/",
-                    "id": 48364554,
-                    "language": "Rust",
-                    "license": "NOASSERTION",
-                    "last_commit": "2021-12-06T18:23:49Z",
-                    "open_issues": 0,
-                    "owner": "amethyst",
-                    "repo": "amethyst",
-                    "stars": 8033,
-                    "topics": [
-                      "engine",
-                      "game-engine",
-                      "gamedev",
-                      "hacktoberfest",
                       "rust"
                     ]
                   },
@@ -2564,7 +2318,7 @@
                     "open_issues": 167,
                     "owner": "hexops",
                     "repo": "mach",
-                    "stars": 4848,
+                    "stars": 4849,
                     "topics": [
                       "composable",
                       "cross-platform",
@@ -2579,6 +2333,245 @@
                     ]
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "💀 Amethyst",
+                      "description": "Data-oriented and data-driven game engine written in Rust. ⭐ 8k · last commit 2021",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "description": "Data-oriented and data-driven game engine written in Rust",
+                        "homepage": "https://amethyst.rs/",
+                        "id": 48364554,
+                        "language": "Rust",
+                        "license": "NOASSERTION",
+                        "last_commit": "2021-12-06T18:23:49Z",
+                        "open_issues": 0,
+                        "owner": "amethyst",
+                        "repo": "amethyst",
+                        "stars": 8034,
+                        "topics": [
+                          "engine",
+                          "game-engine",
+                          "gamedev",
+                          "hacktoberfest",
+                          "rust"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Sparky",
+                      "description": "Cross-Platform High Performance 2D/3D game engine. ⭐ 1.2k · last commit 2016",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Cross-Platform High Performance 2D/3D game engine for people like me who like to write code.",
+                        "homepage": null,
+                        "id": 32199327,
+                        "language": "C++",
+                        "license": "Apache-2.0",
+                        "last_commit": "2020-03-21T13:12:54Z",
+                        "open_issues": 50,
+                        "owner": "TheCherno",
+                        "repo": "Sparky",
+                        "stars": 1193,
+                        "topics": [
+                          "c-plus-plus",
+                          "game-development",
+                          "game-engine",
+                          "sparky"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "kengine",
+                      "description": "Game engine focused on ease-of-use, runtime extensibility and compile-time type safety. ⭐ 618 · last commit 2023",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.",
+                        "homepage": null,
+                        "id": 89867048,
+                        "language": "C++",
+                        "license": "MIT",
+                        "last_commit": "2023-03-10T12:07:24Z",
+                        "open_issues": 1,
+                        "owner": "phisko",
+                        "repo": "kengine",
+                        "stars": 618,
+                        "topics": [
+                          "cpp",
+                          "cpp-game-engine",
+                          "cpp-library",
+                          "cpp-templates",
+                          "cpp17",
+                          "ecs",
+                          "engine",
+                          "entity",
+                          "entity-component",
+                          "entity-component-system",
+                          "entt",
+                          "game",
+                          "game-development",
+                          "game-engine",
+                          "gamedev",
+                          "gameobject",
+                          "lua-script",
+                          "modern-cpp",
+                          "python-script"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Engine",
+                      "description": "Basic cross-platform 3D game engine. ⭐ 301 · last commit 2018",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A basic cross-platform 3D game engine",
+                        "homepage": "https://shervanator.github.io/Engine/",
+                        "id": 18516055,
+                        "language": "C++",
+                        "license": "GPL-3.0",
+                        "last_commit": "2018-08-04T10:04:17Z",
+                        "open_issues": 14,
+                        "owner": "Shervanator",
+                        "repo": "Engine",
+                        "stars": 301,
+                        "topics": [
+                          "3d",
+                          "3d-game-engine",
+                          "android",
+                          "assimp",
+                          "bullet-physics",
+                          "c-plus-plus",
+                          "cmake",
+                          "cross-platform",
+                          "dank",
+                          "dear-imgui",
+                          "emscripten",
+                          "engine",
+                          "game",
+                          "game-engine",
+                          "lighting",
+                          "linux",
+                          "mac",
+                          "opengl",
+                          "sdl2",
+                          "windows"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "💀 shiva",
+                      "description": "Modern Cross-Platform C++ Engine with modularity. ⭐ 160 · last commit 2019",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "description": "Modern Cross-Platform C++ Engine with modularity (MIT). Maintains here: https://github.com/KomodoPlatform/antara-gaming-sdk",
+                        "homepage": null,
+                        "id": 131817435,
+                        "language": "C++",
+                        "license": "MIT",
+                        "last_commit": "2019-09-14T16:02:56Z",
+                        "open_issues": 3,
+                        "owner": "Milerius",
+                        "repo": "shiva",
+                        "stars": 160,
+                        "topics": [
+                          "c",
+                          "cmake-modules",
+                          "cpp",
+                          "cpp-library",
+                          "cpp17",
+                          "game-engine",
+                          "game-engine-framework"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Usagi",
+                      "description": "Hierarchical component entity system based game engine. ⭐ 57 · last commit 2022",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A hierarchical component entity system based game engine",
+                        "homepage": null,
+                        "id": 130516976,
+                        "language": "C++",
+                        "license": "MIT",
+                        "last_commit": "2026-09-26T12:56:24Z",
+                        "open_issues": 1,
+                        "owner": "vitei",
+                        "repo": "Usagi",
+                        "stars": 57,
+                        "topics": [
+                          "ecs",
+                          "entity-component-system",
+                          "game-engine",
+                          "vulkan"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "igneous",
+                      "description": "Open source game engine written in C++. ⭐ 52 · last commit 2019",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Igneous is an open source game engine written in C++.",
+                        "homepage": null,
+                        "id": 158773133,
+                        "language": "C++",
+                        "license": "CC-BY-4.0",
+                        "last_commit": "2020-10-03T01:56:19Z",
+                        "open_issues": 0,
+                        "owner": "MissingBitStudios",
+                        "repo": "igneous",
+                        "stars": 52,
+                        "topics": [
+                          "assimp",
+                          "bgfx",
+                          "bullet-physics",
+                          "cmake",
+                          "cpp",
+                          "directx",
+                          "entt",
+                          "game-development",
+                          "game-engine",
+                          "glfw",
+                          "glm",
+                          "imgui",
+                          "linux",
+                          "macos",
+                          "metal",
+                          "openal",
+                          "opengl",
+                          "raknet",
+                          "windows"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T02:27:22.875Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Inactive (7): archived or no commits for 3+ years"
                 }
               ],
               "description": null,
@@ -2610,7 +2603,7 @@
                     "open_issues": 15,
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5681,
+                    "stars": 5685,
                     "topics": [
                       "android",
                       "directx",
@@ -2648,11 +2641,11 @@
                     "id": 125349427,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T05:48:13Z",
+                    "last_commit": "2026-10-13T09:26:34Z",
                     "open_issues": 2,
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
-                    "stars": 1935,
+                    "stars": 1937,
                     "topics": [
                       "c-plus-plus",
                       "ecs",
@@ -2695,7 +2688,7 @@
                     "open_issues": 4,
                     "owner": "xissburg",
                     "repo": "edyn",
-                    "stars": 792,
+                    "stars": 793,
                     "topics": [
                       "ecs",
                       "entity-component-system",
@@ -2728,7 +2721,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🔴 ecs_benchmark",
+              "title": "🟡 ecs_benchmark",
               "description": "Benchmarks of common ECS (Entity-Component-System)-Frameworks in C/C++. ⭐ 308",
               "children": [],
               "repo_info": {
@@ -2783,7 +2776,7 @@
             },
             {
               "node_type": "item",
-              "title": "🔴 CSharpECSComparison",
+              "title": "CSharpECSComparison",
               "description": "Benchmarks of common ECS Frameworks for C#. ⭐ 53",
               "children": [],
               "repo_info": {
@@ -2886,7 +2879,7 @@
                 "open_issues": 4,
                 "owner": "dbartolini",
                 "repo": "data-oriented-design",
-                "stars": 4491,
+                "stars": 4492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2914,22 +2907,22 @@
                 "open_issues": 2,
                 "owner": "SanderMertens",
                 "repo": "ecs-faq",
-                "stars": 2762,
+                "stars": 2764,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
             }
           ],
-          "description": "Other ECS-related resources.",
+          "description": "Wikis, FAQs, glossaries, and other reference material on ECS.",
           "node_type": "group",
-          "title": "ETC"
+          "title": "References"
         }
       ],
       "title": "Other Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:37:24.174Z",
+    "last_updated": "2026-10-13T23:25:56.262Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
@@ -2937,8 +2930,8 @@
       "id": 159918826,
       "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-10-12T20:00:52Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-13T07:51:33Z",
+      "open_issues": 1,
       "owner": "jslee02",
       "repo": "awesome-entity-component-system",
       "stars": 702,
@@ -2950,7 +2943,7 @@
         "game-engine"
       ]
     },
-    "original_repository_sha": "75a548f6de6f81ccdb47aa240d1a8a4ced22668f",
+    "original_repository_sha": "93e3729b8ce3d259863b5a7215c3629ccb7e8f33",
     "enhanced_repository": "enhansome/enhansome-entity-component-system",
     "enhanced_repository_description": null,
     "title": "Awesome ECS with stars"
