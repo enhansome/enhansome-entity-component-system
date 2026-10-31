@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13232,
+                "stars": 13235,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -60,10 +60,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T21:35:17Z",
-                "open_issues": 54,
+                "open_issues": 56,
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8781,
+                "stars": 8782,
                 "topics": [
                   "c99",
                   "cpp11",
@@ -99,11 +99,11 @@
                 "id": 37770961,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-30T06:05:45Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-31T21:26:33Z",
+                "open_issues": 112,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7329,
+                "stars": 7331,
                 "topics": [
                   "audio",
                   "directx12",
@@ -178,7 +178,7 @@
                 "id": 359172378,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-25T22:45:56Z",
+                "last_commit": "2026-10-31T07:58:53Z",
                 "open_issues": 5,
                 "owner": "richardbiely",
                 "repo": "gaia-ecs",
@@ -258,7 +258,7 @@
                 "open_issues": 44,
                 "owner": "genaray",
                 "repo": "Arch",
-                "stars": 1862,
+                "stars": 1865,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -326,11 +326,11 @@
                 "id": 833054804,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:13:57Z",
+                "last_commit": "2026-10-31T13:23:52Z",
                 "open_issues": 43,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 801,
+                "stars": 802,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -370,7 +370,7 @@
                 "open_issues": 11,
                 "owner": "scellecs",
                 "repo": "morpeh",
-                "stars": 673,
+                "stars": 675,
                 "topics": [
                   "csharp",
                   "ecs",
@@ -683,10 +683,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T06:54:23Z",
-                "open_issues": 3520,
+                "open_issues": 3523,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 49397,
+                "stars": 49421,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -992,7 +992,7 @@
                 "open_issues": 23,
                 "owner": "NateTheGreatt",
                 "repo": "bitECS",
-                "stars": 1530,
+                "stars": 1531,
                 "topics": [
                   "ecs",
                   "entitycomponentsystem",
@@ -1142,7 +1142,7 @@
                 "open_issues": 8,
                 "owner": "prime31",
                 "repo": "zig-ecs",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "zig"
                 ]
@@ -1291,7 +1291,7 @@
                     "open_issues": 98,
                     "owner": "sschmid",
                     "repo": "Entitas",
-                    "stars": 7679,
+                    "stars": 7680,
                     "topics": [
                       "c-sharp",
                       "code-generation",
@@ -1329,7 +1329,7 @@
                     "open_issues": 96,
                     "owner": "amethyst",
                     "repo": "legion",
-                    "stars": 1723,
+                    "stars": 1724,
                     "topics": [
                       "ecs",
                       "rust"
@@ -1374,7 +1374,7 @@
                     "open_issues": 41,
                     "owner": "junkdog",
                     "repo": "artemis-odb",
-                    "stars": 832,
+                    "stars": 833,
                     "topics": [
                       "artemis-odb",
                       "entity-component-system",
@@ -1499,7 +1499,7 @@
                     "open_issues": 14,
                     "owner": "vittorioromeo",
                     "repo": "ecst",
-                    "stars": 490,
+                    "stars": 489,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -1888,11 +1888,11 @@
                     "id": 37770961,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T06:05:45Z",
-                    "open_issues": 111,
+                    "last_commit": "2026-10-31T21:26:33Z",
+                    "open_issues": 112,
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
-                    "stars": 7329,
+                    "stars": 7331,
                     "topics": [
                       "audio",
                       "directx12",
@@ -1925,11 +1925,11 @@
                     "id": 43295328,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T22:04:32Z",
+                    "last_commit": "2026-10-31T22:34:24Z",
                     "open_issues": 48,
                     "owner": "amzeratul",
                     "repo": "halley",
-                    "stars": 3868,
+                    "stars": 3870,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1950,7 +1950,7 @@
                     "open_issues": 3,
                     "owner": "jmorton06",
                     "repo": "Lumos",
-                    "stars": 1600,
+                    "stars": 1601,
                     "topics": [
                       "cpp17",
                       "ecs",
@@ -1982,7 +1982,7 @@
                     "open_issues": 18,
                     "owner": "ASC-Community",
                     "repo": "MxEngine",
-                    "stars": 1232,
+                    "stars": 1233,
                     "topics": [
                       "3d-graphics",
                       "cpp",
@@ -2008,11 +2008,11 @@
                     "id": 164856783,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T22:11:35Z",
+                    "last_commit": "2026-10-31T20:43:21Z",
                     "open_issues": 34,
                     "owner": "gscept",
                     "repo": "nebula",
-                    "stars": 1102,
+                    "stars": 1104,
                     "topics": [
                       "classless-api",
                       "data-oriented-architecture",
@@ -2024,6 +2024,40 @@
                       "vulkan",
                       "vulkan-game-engine",
                       "windows"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:27:22.875Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "🟢 supernova",
+                  "description": "Game engine for 2D and 3D projects with ECS and data-oriented design. ⭐ 866",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
+                    "homepage": "http://www.doriax.org",
+                    "id": 64516740,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2026-10-31T02:50:22Z",
+                    "open_issues": 16,
+                    "owner": "doriaxengine",
+                    "repo": "doriax",
+                    "stars": 902,
+                    "topics": [
+                      "cross-platform",
+                      "data-oriented-design",
+                      "directx",
+                      "ecs",
+                      "entity-component-system",
+                      "game-dev",
+                      "game-development",
+                      "game-engine",
+                      "gamedev",
+                      "metalapi",
+                      "opengl",
+                      "opengl-es"
                     ]
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2057,40 +2091,6 @@
                       "lina-engine",
                       "ui",
                       "vulkan-game-engine"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T02:27:22.875Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "🟢 supernova",
-                  "description": "Game engine for 2D and 3D projects with ECS and data-oriented design. ⭐ 866",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
-                    "homepage": "http://www.doriax.org",
-                    "id": 64516740,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2026-10-30T11:29:25Z",
-                    "open_issues": 16,
-                    "owner": "doriaxengine",
-                    "repo": "doriax",
-                    "stars": 899,
-                    "topics": [
-                      "cross-platform",
-                      "data-oriented-design",
-                      "directx",
-                      "ecs",
-                      "entity-component-system",
-                      "game-dev",
-                      "game-development",
-                      "game-engine",
-                      "gamedev",
-                      "metalapi",
-                      "opengl",
-                      "opengl-es"
                     ]
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2181,7 +2181,7 @@
                     "open_issues": 54,
                     "owner": "EngoEngine",
                     "repo": "engo",
-                    "stars": 1821,
+                    "stars": 1822,
                     "topics": [
                       "engo",
                       "entity-component-system",
@@ -2212,10 +2212,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-30T06:54:23Z",
-                    "open_issues": 3520,
+                    "open_issues": 3523,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 49397,
+                    "stars": 49421,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -2243,7 +2243,7 @@
                     "open_issues": 281,
                     "owner": "AmbientRun",
                     "repo": "Ambient",
-                    "stars": 3907,
+                    "stars": 3908,
                     "topics": [
                       "3d-graphics",
                       "game-development",
@@ -2318,7 +2318,7 @@
                     "open_issues": 165,
                     "owner": "hexops",
                     "repo": "mach",
-                    "stars": 4859,
+                    "stars": 4861,
                     "topics": [
                       "composable",
                       "cross-platform",
@@ -2352,7 +2352,7 @@
                         "open_issues": 0,
                         "owner": "amethyst",
                         "repo": "amethyst",
-                        "stars": 8038,
+                        "stars": 8037,
                         "topics": [
                           "engine",
                           "game-engine",
@@ -2379,7 +2379,7 @@
                         "open_issues": 50,
                         "owner": "TheCherno",
                         "repo": "Sparky",
-                        "stars": 1195,
+                        "stars": 1196,
                         "topics": [
                           "c-plus-plus",
                           "game-development",
@@ -2603,7 +2603,7 @@
                     "open_issues": 15,
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5771,
+                    "stars": 5792,
                     "topics": [
                       "android",
                       "directx",
@@ -2641,7 +2641,7 @@
                     "id": 125349427,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T16:58:15Z",
+                    "last_commit": "2026-10-31T21:14:14Z",
                     "open_issues": 2,
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
@@ -2907,7 +2907,7 @@
                 "open_issues": 2,
                 "owner": "SanderMertens",
                 "repo": "ecs-faq",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2922,7 +2922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:14:28.728Z",
+    "last_updated": "2026-10-31T22:49:45.104Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
