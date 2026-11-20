@@ -17,11 +17,11 @@
                 "id": 86337343,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-18T08:09:47Z",
+                "last_commit": "2026-11-19T10:37:06Z",
                 "open_issues": 12,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13278,
+                "stars": 13279,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -59,11 +59,11 @@
                 "id": 146155284,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T00:50:45Z",
-                "open_issues": 66,
+                "last_commit": "2026-11-20T00:49:39Z",
+                "open_issues": 61,
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8852,
+                "stars": 8854,
                 "topics": [
                   "c99",
                   "cpp11",
@@ -99,8 +99,8 @@
                 "id": 37770961,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:08:24Z",
-                "open_issues": 114,
+                "last_commit": "2026-11-20T00:59:41Z",
+                "open_issues": 116,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
                 "stars": 7369,
@@ -140,7 +140,7 @@
                 "open_issues": 18,
                 "owner": "alecthomas",
                 "repo": "entityx",
-                "stars": 2345,
+                "stars": 2344,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -161,7 +161,7 @@
                 "open_issues": 2,
                 "owner": "empyreanx",
                 "repo": "pico_headers",
-                "stars": 568,
+                "stars": 569,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -300,7 +300,7 @@
                 "open_issues": 2,
                 "owner": "sebas77",
                 "repo": "Svelto.ECS",
-                "stars": 1366,
+                "stars": 1365,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -330,7 +330,7 @@
                 "open_issues": 46,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 818,
+                "stars": 816,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -370,7 +370,7 @@
                 "open_issues": 10,
                 "owner": "scellecs",
                 "repo": "morpeh",
-                "stars": 678,
+                "stars": 677,
                 "topics": [
                   "csharp",
                   "ecs",
@@ -401,7 +401,7 @@
                 "open_issues": 10,
                 "owner": "outfox",
                 "repo": "fennecs",
-                "stars": 483,
+                "stars": 481,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -429,7 +429,7 @@
                 "open_issues": 0,
                 "owner": "DCFApixels",
                 "repo": "DragonECS",
-                "stars": 342,
+                "stars": 341,
                 "topics": [
                   "csharp",
                   "dragon-ecs",
@@ -652,7 +652,7 @@
                 "open_issues": 5,
                 "owner": "benmoran56",
                 "repo": "esper",
-                "stars": 703,
+                "stars": 702,
                 "topics": [
                   "entity-component-system",
                   "entity-system",
@@ -682,11 +682,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T23:25:00Z",
-                "open_issues": 3558,
+                "last_commit": "2026-11-19T22:42:56Z",
+                "open_issues": 3545,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 49853,
+                "stars": 49877,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -714,7 +714,7 @@
                 "open_issues": 48,
                 "owner": "amethyst",
                 "repo": "specs",
-                "stars": 2620,
+                "stars": 2619,
                 "topics": [
                   "ecs",
                   "parallel-ecs",
@@ -739,7 +739,7 @@
                 "open_issues": 33,
                 "owner": "Ralith",
                 "repo": "hecs",
-                "stars": 1399,
+                "stars": 1398,
                 "topics": [
                   "ecs-paradigm",
                   "hacktoberfest"
@@ -763,7 +763,7 @@
                 "open_issues": 6,
                 "owner": "leudz",
                 "repo": "shipyard",
-                "stars": 897,
+                "stars": 896,
                 "topics": [
                   "architectural-patterns",
                   "data-oriented",
@@ -886,7 +886,7 @@
                 "open_issues": 1,
                 "owner": "BlackMATov",
                 "repo": "evolved.lua",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "ecs",
                   "entity-component",
@@ -1291,7 +1291,7 @@
                     "open_issues": 98,
                     "owner": "sschmid",
                     "repo": "Entitas",
-                    "stars": 7683,
+                    "stars": 7682,
                     "topics": [
                       "c-sharp",
                       "code-generation",
@@ -1329,7 +1329,7 @@
                     "open_issues": 96,
                     "owner": "amethyst",
                     "repo": "legion",
-                    "stars": 1727,
+                    "stars": 1726,
                     "topics": [
                       "ecs",
                       "rust"
@@ -1353,7 +1353,7 @@
                     "open_issues": 52,
                     "owner": "ecsyjs",
                     "repo": "ecsy",
-                    "stars": 1153,
+                    "stars": 1152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1428,7 +1428,7 @@
                     "open_issues": 20,
                     "owner": "Doraku",
                     "repo": "DefaultEcs",
-                    "stars": 765,
+                    "stars": 766,
                     "topics": [
                       "c-sharp",
                       "dotnet",
@@ -1458,7 +1458,7 @@
                     "open_issues": 1,
                     "owner": "phisko",
                     "repo": "kengine",
-                    "stars": 619,
+                    "stars": 618,
                     "topics": [
                       "cpp",
                       "cpp-game-engine",
@@ -1499,7 +1499,7 @@
                     "open_issues": 14,
                     "owner": "vittorioromeo",
                     "repo": "ecst",
-                    "stars": 489,
+                    "stars": 488,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -1530,7 +1530,7 @@
                     "open_issues": 0,
                     "owner": "redxdev",
                     "repo": "ECS",
-                    "stars": 482,
+                    "stars": 480,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -1556,7 +1556,7 @@
                     "open_issues": 26,
                     "owner": "miguelmartin75",
                     "repo": "anax",
-                    "stars": 461,
+                    "stars": 460,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1888,8 +1888,8 @@
                     "id": 37770961,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T22:08:24Z",
-                    "open_issues": 114,
+                    "last_commit": "2026-11-20T00:59:41Z",
+                    "open_issues": 116,
                     "owner": "turanszkij",
                     "repo": "WickedEngine",
                     "stars": 7369,
@@ -1925,11 +1925,11 @@
                     "id": 43295328,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T18:21:58Z",
+                    "last_commit": "2026-11-20T00:49:28Z",
                     "open_issues": 48,
                     "owner": "amzeratul",
                     "repo": "halley",
-                    "stars": 3871,
+                    "stars": 3870,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:22.875Z"
@@ -1950,7 +1950,7 @@
                     "open_issues": 2,
                     "owner": "jmorton06",
                     "repo": "Lumos",
-                    "stars": 1605,
+                    "stars": 1604,
                     "topics": [
                       "cpp17",
                       "ecs",
@@ -1982,7 +1982,7 @@
                     "open_issues": 18,
                     "owner": "ASC-Community",
                     "repo": "MxEngine",
-                    "stars": 1229,
+                    "stars": 1228,
                     "topics": [
                       "3d-graphics",
                       "cpp",
@@ -2008,11 +2008,11 @@
                     "id": 164856783,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T13:45:33Z",
-                    "open_issues": 32,
+                    "last_commit": "2026-11-19T23:56:36Z",
+                    "open_issues": 30,
                     "owner": "gscept",
                     "repo": "nebula",
-                    "stars": 1104,
+                    "stars": 1103,
                     "topics": [
                       "classless-api",
                       "data-oriented-architecture",
@@ -2040,11 +2040,11 @@
                     "id": 64516740,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T01:06:22Z",
+                    "last_commit": "2026-11-20T00:42:01Z",
                     "open_issues": 14,
                     "owner": "doriaxengine",
                     "repo": "doriax",
-                    "stars": 931,
+                    "stars": 933,
                     "topics": [
                       "cross-platform",
                       "data-oriented-design",
@@ -2078,7 +2078,7 @@
                     "open_issues": 1,
                     "owner": "inanevin",
                     "repo": "LinaEngine",
-                    "stars": 900,
+                    "stars": 899,
                     "topics": [
                       "3d-graphics",
                       "3d-graphics-engine",
@@ -2111,7 +2111,7 @@
                     "open_issues": 15,
                     "owner": "NazaraEngine",
                     "repo": "NazaraEngine",
-                    "stars": 846,
+                    "stars": 845,
                     "topics": [
                       "3d-engine",
                       "c-plus-plus",
@@ -2181,7 +2181,7 @@
                     "open_issues": 54,
                     "owner": "EngoEngine",
                     "repo": "engo",
-                    "stars": 1823,
+                    "stars": 1822,
                     "topics": [
                       "engo",
                       "entity-component-system",
@@ -2211,11 +2211,11 @@
                     "id": 234798675,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T23:25:00Z",
-                    "open_issues": 3558,
+                    "last_commit": "2026-11-19T22:42:56Z",
+                    "open_issues": 3545,
                     "owner": "bevyengine",
                     "repo": "bevy",
-                    "stars": 49853,
+                    "stars": 49877,
                     "topics": [
                       "bevy",
                       "game-development",
@@ -2243,7 +2243,7 @@
                     "open_issues": 281,
                     "owner": "AmbientRun",
                     "repo": "Ambient",
-                    "stars": 3909,
+                    "stars": 3908,
                     "topics": [
                       "3d-graphics",
                       "game-development",
@@ -2275,7 +2275,7 @@
                     "open_issues": 69,
                     "owner": "fishfolk",
                     "repo": "bones",
-                    "stars": 324,
+                    "stars": 323,
                     "topics": [
                       "bevy",
                       "bones",
@@ -2352,7 +2352,7 @@
                         "open_issues": 0,
                         "owner": "amethyst",
                         "repo": "amethyst",
-                        "stars": 8036,
+                        "stars": 8035,
                         "topics": [
                           "engine",
                           "game-engine",
@@ -2379,7 +2379,7 @@
                         "open_issues": 50,
                         "owner": "TheCherno",
                         "repo": "Sparky",
-                        "stars": 1196,
+                        "stars": 1195,
                         "topics": [
                           "c-plus-plus",
                           "game-development",
@@ -2405,7 +2405,7 @@
                         "open_issues": 1,
                         "owner": "phisko",
                         "repo": "kengine",
-                        "stars": 619,
+                        "stars": 618,
                         "topics": [
                           "cpp",
                           "cpp-game-engine",
@@ -2600,10 +2600,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-27T22:50:15Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "ConfettiFX",
                     "repo": "The-Forge",
-                    "stars": 5822,
+                    "stars": 5823,
                     "topics": [
                       "android",
                       "directx",
@@ -2641,7 +2641,7 @@
                     "id": 125349427,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T20:25:57Z",
+                    "last_commit": "2026-11-19T11:37:25Z",
                     "open_issues": 2,
                     "owner": "GameFoundry",
                     "repo": "B3DFramework",
@@ -2735,7 +2735,7 @@
                 "open_issues": 2,
                 "owner": "abeimler",
                 "repo": "ecs_benchmark",
-                "stars": 309,
+                "stars": 308,
                 "topics": [
                   "benchmark",
                   "c-plus-plus",
@@ -2879,7 +2879,7 @@
                 "open_issues": 4,
                 "owner": "dbartolini",
                 "repo": "data-oriented-design",
-                "stars": 4513,
+                "stars": 4514,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:22.875Z"
@@ -2922,7 +2922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:30:06.060Z",
+    "last_updated": "2026-11-20T01:26:38.053Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources",
